@@ -1,0 +1,116 @@
+{
+  "Lu Wei": {
+    "title": "Asst. Professor",
+    "researchInterest": [
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Natural Language Processing"
+    ],
+    "googlescholar": "https://scholar.google.com/citations?user=n41KN9AAAAAJ&hl=en",
+    "linkedin": "https://www.linkedin.com/in/wei-lu-59aa9615/",
+    "github": ""
+  },
+  "Cheng Li Ying": {
+    "title": "PhD Student",
+    "researchInterest": [
+      "Text Generation"
+    ],
+    "googlescholar": "",
+    "linkedin": "https://sg.linkedin.com/in/liying-cheng-1210608b",
+    "github": ""
+  },
+  "Guo Zhi Jiang": {
+    "title": "PhD Student",
+    "researchInterest": [
+      "Syntatic Parsing",
+      "Semantic Parsing"
+    ],
+    "googlescholar": "",
+    "linkedin": "https://www.linkedin.com/in/zhijiang-guo-aa032837/",
+    "github": "https://github.com/Cartus"
+  },
+  "Jie Zhan Ming": {
+    "title": "PhD Student",
+    "researchInterest": [
+      "Semantic Parsing",
+      "Named Entity Recognition"
+    ],
+    "googlescholar": "",
+    "linkedin": "",
+    "github": "https://github.com/allanj"
+  },
+  "Joel Ong": {
+    "title": "PhD Student",
+    "researchInterest": [
+      "Natural Language Processing",
+      "Machine Learning in Economics",
+      "Artificial Intelligence"
+    ],
+    "googlescholar": "",
+    "linkedin": "https://www.linkedin.com/in/joelowj/",
+    "github": "https://github.com/joelowj"
+  },
+  "Li Hao": {
+    "title": "PhD Student",
+    "researchInterest": [
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Natural Language Processing"
+    ],
+    "googlescholar": "",
+    "linkedin": "",
+    "github": ""
+  },
+  "Sun Xiao Bing": {
+    "title": "PhD Student",
+    "researchInterest": [
+      "Target Sentiment Analysis",
+      "Neural Network Interpretability"
+    ],
+    "googlescholar": "",
+    "linkedin": "https://www.linkedin.com/in/topsun888/",
+    "github": ""
+  },
+  "Thilini": {
+    "title": "PhD Student",
+    "researchInterest": [
+      "Visual Language Tasks",
+      "Visual Question & Answering"
+    ],
+    "googlescholar": "",
+    "linkedin": "",
+    "github": "https://github.com/thilinicooray"
+  },
+  "Xu Lu": {
+    "title": "PhD Student",
+    "researchInterest": [
+      "Graph Neural Network",
+      "Low Resource Task",
+      "Relation & Information Extraction"
+    ],
+    "googlescholar": "",
+    "linkedin": "",
+    "github": "https://github.com/xuuuluuu"
+  },
+  "Zhang Yan": {
+    "title": "PhD Student",
+    "researchInterest": [
+      "Graph Neural Networks",
+      "Knowledge Representation & Reasoning"
+    ],
+    "googlescholar": "",
+    "linkedin": "https://www.linkedin.com/in/zhang-yan-1001940/",
+    "github": ""
+  },
+  "Zou Yan Yan": {
+    "title": "PhD Student",
+    "researchInterest": [
+      "Natural Language Understanding",
+      "Semantic Parsing",
+      "Text Summarization"
+    ],
+    "googlescholar": "",
+    "linkedin": "https://www.linkedin.com/in/yanyan-zou-8782b778/",
+    "github": ""
+  }
+}
