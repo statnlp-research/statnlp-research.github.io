@@ -8,9 +8,8 @@ import { faExternalLinkAlt } from '@fortawesome/free-solid-svg-icons'
 
 
 export default () => (
-  <div style={{ margin: `5rem auto`, maxWidth: 1000 }}>
+  <div style={{ margin: `2rem auto`, maxWidth: 1000 }}>
     <Header />
-    <h1>Software</h1>
-    <h1>Datasets</h1>
+    <h1 style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', marginTop: '45vh' }}>To be coming soon!</h1>
   </div>
 )

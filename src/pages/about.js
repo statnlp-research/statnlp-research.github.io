@@ -38,7 +38,10 @@ export default () => (
   <div style={{ margin: `5rem auto`, maxWidth: 1000 }}>
     <Header />
     <h1>Our Research Philosophy</h1>
-    <h1>Our Focus Areas</h1>
+      <Card style={{ padding: "25px" }}>
+      Our relentless focus on fundamental research aims to address key scientific and
+      engineering questions or to develop new capabilities in the field of Natural Language Processing.
+      </Card>
     <h1>Our Partners</h1>
     <div style={{ display: 'flex', flexWrap: 'wrap' }}>
       { Object.keys(partnersData).map((name, i) =>

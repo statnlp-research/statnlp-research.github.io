@@ -1,5 +1,6 @@
 {
   "Lu Wei": {
+    "role": "professor",
     "title": "Asst. Professor",
     "researchInterest": [
       "Machine Learning",
@@ -9,6 +10,66 @@
     "googlescholar": "https://scholar.google.com/citations?user=n41KN9AAAAAJ&hl=en",
     "linkedin": "https://www.linkedin.com/in/wei-lu-59aa9615/",
     "github": ""
+  },
+  "Cheng Juan": {
+    "role": "staff",
+    "title": "Postdoc",
+    "researchInterest": [
+      "Sentiment Analysis",
+      "Relation Extraction",
+      "Deep Learning Interpretability"
+    ],
+    "googlescholar": "",
+    "linkedin": "",
+    "github": ""
+  },
+  "Guoshun Nan": {
+    "role": "staff",
+    "title": "Postdoc",
+    "researchInterest": [
+      "Named Entity Recognition",
+      "Relation Extraction",
+      "Question & Answering"
+    ],
+    "googlescholar": "",
+    "linkedin": "",
+    "github": "https://github.com/nanguoshun"
+  },
+  "Qiao Rui": {
+    "role": "staff",
+    "title": "Research Asst.",
+    "researchInterest": [
+      "Named Entity Recognition",
+      "Relation Extraction",
+      "Question & Answering"
+    ],
+    "googlescholar": "",
+    "linkedin": "",
+    "github": ""
+  },
+  "Shi Ke": {
+    "role": "staff",
+    "title": "Research Asst.",
+    "researchInterest": [
+      "Named Entity Recognition",
+      "Relation Extraction",
+      "Question & Answering"
+    ],
+    "googlescholar": "",
+    "linkedin": "",
+    "github": ""
+  },
+  "Liao Jing": {
+    "role": "staff",
+    "title": "Visiting Student",
+    "researchInterest": [
+      "Sentiment Analysis",
+      "Intelligent Design",
+      "Human Centered Computing"
+    ],
+    "googlescholar": "",
+    "linkedin": "",
+    "github": "https://github.com/jingliao132"
   },
   "Cheng Li Ying": {
     "title": "PhD Student",
@@ -65,7 +126,7 @@
     "title": "PhD Student",
     "researchInterest": [
       "Target Sentiment Analysis",
-      "Neural Network Interpretability"
+      "Deep Learning Interpretability"
     ],
     "googlescholar": "",
     "linkedin": "https://www.linkedin.com/in/topsun888/",
