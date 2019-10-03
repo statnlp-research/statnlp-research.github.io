@@ -22,15 +22,15 @@ const ListLink = props => (
 export default () => (
   <AppBar color="default" style={{ height: 64 }}>
     <div style={{ margin: `1rem` }}>
-      <Link to="/" style={{ textShadow: `none`, backgroundImage: `none` }}>
-        <h3 style={{ display: `inline` }}>StatNLP</h3>
+      <Link to="/" style={{ textShadow: `none`, backgroundImage: `none`, display: "flex", flexDirection: "row" }}>
+        <img src={require('../../assets/statnlp_logo.svg')} style={{ marginTop: -30, marginLeft: -25 }}/>
+        <h3 style={{ marginTop: -3, marginLeft: -20}}>StatNLP</h3>
       </Link>
-      <ul style={{ listStyle: `none`, float: `right` }}>
+      <ul style={{ listStyle: `none`, float: `right`, marginTop: -100 }}>
         <ListLink to="/about/">About</ListLink>
         <ListLink to="/people/">People</ListLink>
         <ListLink to="/publications/">Publications</ListLink>
-        <ListLink to="/tools">Tools</ListLink>
-        <ListLink to="/blog">Blog</ListLink>
+        <ListLink to="/tools/">Tools</ListLink>
       </ul>
     </div>
   </AppBar>

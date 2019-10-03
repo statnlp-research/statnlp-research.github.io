@@ -39,8 +39,7 @@ export default () => (
     <Header />
     <h1>Our Research Philosophy</h1>
       <Card style={{ padding: "25px" }}>
-      Our relentless focus on fundamental research aims to address key scientific and
-      engineering questions or to develop new capabilities in the field of Natural Language Processing.
+      Advancing the state of Natural Language Processing by focusing on fundamental research.
       </Card>
     <h1>Our Partners</h1>
     <div style={{ display: 'flex', flexWrap: 'wrap' }}>

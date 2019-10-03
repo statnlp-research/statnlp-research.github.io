@@ -71,7 +71,7 @@
     "linkedin": "",
     "github": "https://github.com/jingliao132"
   },
-  "Cheng Li Ying": {
+  "Cheng Liying": {
     "title": "PhD Student",
     "researchInterest": [
       "Text Generation"
@@ -80,7 +80,7 @@
     "linkedin": "https://sg.linkedin.com/in/liying-cheng-1210608b",
     "github": ""
   },
-  "Guo Zhi Jiang": {
+  "Guo ZhiJiang": {
     "title": "PhD Student",
     "researchInterest": [
       "Syntatic Parsing",
@@ -90,7 +90,7 @@
     "linkedin": "https://www.linkedin.com/in/zhijiang-guo-aa032837/",
     "github": "https://github.com/Cartus"
   },
-  "Jie Zhan Ming": {
+  "Jie ZhanMing": {
     "title": "PhD Student",
     "researchInterest": [
       "Semantic Parsing",
@@ -104,11 +104,11 @@
     "title": "PhD Student",
     "researchInterest": [
       "Natural Language Processing",
-      "Machine Learning in Economics",
-      "Artificial Intelligence"
+      "Machine Learning in Finance",
+      "Reinforcement Learning"
     ],
     "googlescholar": "",
-    "linkedin": "https://www.linkedin.com/in/joelowj/",
+    "linkedin": "",
     "github": "https://github.com/joelowj"
   },
   "Li Hao": {
@@ -122,7 +122,18 @@
     "linkedin": "",
     "github": ""
   },
-  "Sun Xiao Bing": {
+  "Li Haoran": {
+    "title": "PhD Student",
+    "researchInterest": [
+      "Machine Learning",
+      "Graph Neural Networks",
+      "Natural Language Processing"
+    ],
+    "googlescholar": "",
+    "linkedin": "https://www.linkedin.com/in/%E6%B5%A9%E7%84%B6-%E6%9D%8E-49117a191/",
+    "github": "https://github.com/haorannlp"
+  },
+  "Sun Xiaobing": {
     "title": "PhD Student",
     "researchInterest": [
       "Target Sentiment Analysis",
@@ -163,7 +174,7 @@
     "linkedin": "https://www.linkedin.com/in/zhang-yan-1001940/",
     "github": ""
   },
-  "Zou Yan Yan": {
+  "Zou Yanyan": {
     "title": "PhD Student",
     "researchInterest": [
       "Natural Language Understanding",

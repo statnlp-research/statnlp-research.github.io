@@ -2,6 +2,8 @@ import React from "react"
 import Header from "../components/Header"
 import PeopleCard from "../components/PeopleCard"
 import peopleData from "../assets/people.json"
+import Card from '@material-ui/core/Card'
+import CardHeader from '@material-ui/core/CardHeader'
 
 export default () => (
   <div style={{ margin: `5rem auto`, maxWidth: 1000 }}>
