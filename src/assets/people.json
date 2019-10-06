@@ -48,7 +48,7 @@
     "github": ""
   },
   "Shi Ke": {
-    "role": "staff",
+    "role": "alumni",
     "title": "Research Asst.",
     "researchInterest": [
       "Named Entity Recognition",
@@ -133,6 +133,17 @@
     "linkedin": "https://www.linkedin.com/in/%E6%B5%A9%E7%84%B6-%E6%9D%8E-49117a191/",
     "github": "https://github.com/haorannlp"
   },
+  "Perry Lam": {
+    "title": "PhD Student",
+    "researchInterest": [
+      "Speech Generation",
+      "Conversational Information Extraction",
+      "Computational Psycholinguistics"
+    ],
+    "googlescholar": "",
+    "linkedin": "https://www.linkedin.com/in/perry-lam-7b5685109/?originalSubdomain=sg",
+    "github": ""
+  },
   "Sun Xiaobing": {
     "title": "PhD Student",
     "researchInterest": [
@@ -184,5 +195,16 @@
     "googlescholar": "",
     "linkedin": "https://www.linkedin.com/in/yanyan-zou-8782b778/",
     "github": ""
+  },
+  "Ivan Sekulic": {
+    "role": "staff",
+    "title": "Research Intern",
+    "researchInterest": [
+      "Machine Learning",
+      "Natural Language Processing"
+    ],
+    "googlescholar": "",
+    "linkedin": "https://www.linkedin.com/in/isekulic/",
+    "github": "https://github.com/isekulic"
   }
 }

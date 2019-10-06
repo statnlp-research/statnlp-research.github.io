@@ -8,6 +8,11 @@ import { faExternalLinkAlt } from '@fortawesome/free-solid-svg-icons'
 import partnersData from '../assets/partners.json'
 
 const partnerStyle = {
+  aisingapore: {
+    padding: "45px",
+    marginTop: "-60px",
+    marginLeft: "40px"
+  },
   alibaba: {
     padding: "45px",
     marginTop: "-50px"
