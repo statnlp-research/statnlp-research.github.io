@@ -207,4 +207,30 @@
     "linkedin": "https://www.linkedin.com/in/isekulic/",
     "github": "https://github.com/isekulic"
   }
+},
+ "Wang Huiming": {
+   "role": "staff",
+   "title": "Research Intern",
+   "researchInterest": [
+     "Named Entity Recognition",
+     "Semantic Parsing",
+     "Machine Learning"
+   ],
+   "googlescholar": "",
+   "linkedin": "",
+   "github": "https://github.com/Circle-Ming"
+ }
+},
+ "Zhou Yuxiang": {
+   "role": "staff",
+   "title": "Visiting Student",
+   "researchInterest": [
+     "Text Classification",
+     "Sentiment Analysis",
+     "Information Extraction"
+   ],
+   "googlescholar": "",
+   "linkedin": "",
+   "github": "https://github.com/ZhouyxNLP"
+ }
 }
