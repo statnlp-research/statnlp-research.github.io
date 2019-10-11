@@ -1,7 +1,7 @@
 {
   "Lu Wei": {
     "role": "professor",
-    "title": "Asst. Professor",
+    "title": "Associate Professor",
     "researchInterest": [
       "Machine Learning",
       "Artificial Intelligence",
@@ -23,7 +23,7 @@
     "linkedin": "",
     "github": ""
   },
-  "Guoshun Nan": {
+  "Nan Guoshun": {
     "role": "staff",
     "title": "Postdoc",
     "researchInterest": [
@@ -90,7 +90,7 @@
     "linkedin": "https://www.linkedin.com/in/zhijiang-guo-aa032837/",
     "github": "https://github.com/Cartus"
   },
-  "Jie ZhanMing": {
+  "Jie Zhanming": {
     "title": "PhD Student",
     "researchInterest": [
       "Semantic Parsing",

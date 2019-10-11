@@ -65,7 +65,7 @@ export default () => (
             }
           />
           <img alt={name}
-               src={require("../assets/img/partners/" + name + ".webp")}
+               src={require("../assets/img/partners/" + name + ".jpg")}
                style={partnerStyle[name]}
           />
         </Card>
