@@ -219,4 +219,17 @@
    "linkedin": "",
    "github": "https://github.com/Circle-Ming"
  }
+},
+ "Zhou Yuxiang": {
+   "role": "staff",
+   "title": "Visiting Student",
+   "researchInterest": [
+     "Text Classification",
+     "Sentiment Analysis",
+     "Information Extraction"
+   ],
+   "googlescholar": "",
+   "linkedin": "",
+   "github": "https://github.com/ZhouyxNLP"
+ }
 }
