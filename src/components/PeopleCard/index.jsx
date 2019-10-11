@@ -16,7 +16,7 @@ export default (props) => (
     <CardHeader
       avatar={
         <img alt={props.name}
-             src={require("../../assets/img/dp/" + props.name.replace(/\s+/g, "").toLowerCase() + ".webp")}
+             src={require("../../assets/img/dp/" + props.name.replace(/\s+/g, "").toLowerCase() + ".jpg")}
              style={{ margin: 3, width: "70px", height: "70px", borderRadius: "50%" }}
         />
       }

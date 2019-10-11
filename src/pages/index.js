@@ -9,7 +9,7 @@ export default () => (
     <Header />
     <Card style={{ margin: 160, padding: "25px", height: '200px', width: '600px', zIndex: 9999 }}>
       <h1>Our Vision</h1>
-      Do fine research & Nurture good researchers
+      Conduct fine research & Nurture world class researchers
     </Card>
     <img src={require('../assets/img/data_circle_1.jpg')} className="App-logo"/>
   </div>
