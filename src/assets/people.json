@@ -207,4 +207,17 @@
     "linkedin": "https://www.linkedin.com/in/isekulic/",
     "github": "https://github.com/isekulic"
   }
-}
+},
+"Zhou Yuxiang":
+    {
+        "role": "staff",
+        "title": "Visiting Student",
+        "researchInterest": [
+            "Text Classification",
+            "Sentiment Analysis",
+            "Information Extraction"
+        ],
+        "googlescholar": "",
+        "researchgate": "https://www.researchgate.net/profile/Yuxiang_Zhou4",
+        "github": "https://github.com/ZhouyxNLP"
+    }
