@@ -1,5 +1,11 @@
 {
   "2019": {
+    "Dependency-Guided LSTM-CRF for Named Entity Recognition": {
+      "authors": "Zhanming Jie and Wei Lu",
+      "paper": "http://www.statnlp.org/research/ie/jie2019depner.pdf",
+      "bibtext": "@InProceedings{jie2019dependency,\nauthor    = {Jie, Zhanming  and  Lu, Wei},\ntitle     = {Dependency-Guided LSTM-CRF for Named Entity Recognition},\nbooktitle = {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing},\nyear      = {2019}\n}",
+      "code": "https://github.com/allanj/ner_with_dependency"
+    },
     "A Neural Multi-digraph Model for Chinese NER with Gazetteers": {
       "authors": "Ruixue Ding, Pengjun Xie, Xiaoyan Zhang, Wei Lu, Linlin Li and Luo Si",
       "paper": "http://www.statnlp.org/research/ta/ruixue-acl19-ner.pdf",
