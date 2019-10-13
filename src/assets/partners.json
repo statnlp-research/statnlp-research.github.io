@@ -5,8 +5,14 @@
   "alibaba": {
     "link": "https://www.alibabagroup.com/en/global/home"
   },
+  "boeing": {
+    "link": "https://www.boeing.com/"
+  },
   "dso": {
     "link": "https://www.dso.org.sg/"
+  },
+  "idc": {
+    "link": "https://idc.sutd.edu.sg/"
   },
   "mindef": {
     "link": "https://www.mindef.gov.sg/web/portal/mindef/home"

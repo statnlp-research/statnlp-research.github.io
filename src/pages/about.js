@@ -17,9 +17,17 @@ const partnerStyle = {
     padding: "45px",
     marginTop: "-50px"
   },
+  boeing: {
+    padding: "45px",
+    marginTop: "-30px"
+  },
   dso: {
     justifyContent: "center",
     marginTop: "-85px"
+  },
+  idc: {
+    justifyContent: "center",
+    marginLeft: "85px"
   },
   mindef: {
     justifyContent: "center",
