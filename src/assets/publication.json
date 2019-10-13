@@ -1,5 +1,11 @@
 {
   "2019": {
+    "Combining Spans into Entities: A Neural Two-Stage Approach for Recognizing Discontiguous Entities": {
+      "authors": "Bailin Wang and Wei Lu",
+      "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2019/bailinemnlp2019-disco.pdf",
+      "bibtext": "@InProceedings{wang2019combining,\nauthor    = {Wang, Bailin  and  Lu, Wei},\ntitle     = {Combining Spans into Entities: A Neural Two-Stage Approach for Recognizing Discontiguous Entities},\nbooktitle = {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing},\nyear      = {2019}\n}",
+      "code": "https://github.com/berlino/disco_em19"
+    },
     "Dependency-Guided LSTM-CRF for Named Entity Recognition": {
       "authors": "Zhanming Jie and Wei Lu",
       "paper": "http://www.statnlp.org/research/ie/jie2019depner.pdf",
