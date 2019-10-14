@@ -1,5 +1,17 @@
 {
   "2019": {
+    "Text2Math: End-to-end Parsing Text into Math Expressions": {
+      "authors": "Yanyan Zou and Wei Lu",
+      "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2019/emnlp2019-text2math.pdf",
+      "bibtext": "@InProceedings{zou19text2math,\nauthor    = {Zou, Yanyan and Lu, Wei},\ntitle     = {Text2Math: End-to-end Parsing Text into Math Expressions},\nbooktitle = {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing},\nyear      = {2019}\n}",
+      "code": "https://github.com/zoezou2015/text2math"
+    },
+    "Aligning Cross-lingual Entities with Multi-Aspect Information": {
+    "authors": "Hsiu-Wei Yang∗, Yanyan Zou∗, Peng Shi∗, Wei Lu, Jimmy Lin, and Xu Sun",
+    "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2019/emnlp2019-align.pdf",
+    "bibtext": "@InProceedings{zou19align,\nauthor    = {Yang, Hsiu-Wei and Zou, Yanyan and Shi, Peng and Lu, Wei and Lin, Jimmy and Sun, Xu},\ntitle     = {Aligning Cross-lingual Entities with Multi-Aspect Information},\nbooktitle = {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing},\nyear      = {2019}\n}",
+    "code": "https://github.com/h324yang/HMAN"
+    },
      "Learning Explicit and Implicit Structures for Targeted Sentiment Analysis": {
       "authors": "Hao Li and Wei Lu",
       "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2019/emnlp2019-targetsentiment.pdf",
