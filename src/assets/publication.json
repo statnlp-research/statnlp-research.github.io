@@ -1,5 +1,11 @@
 {
   "2019": {
+     "Learning Explicit and Implicit Structures for Targeted Sentiment Analysis": {
+      "authors": "Hao Li and Wei Lu",
+      "paper": "http://www.statnlp.org/research/st/emnlp2019-targetsentiment.pdf",
+      "bibtext": "@InProceedings{li2019sentiment,\nauthor    = {Li, Hao  and  Lu, Wei},\ntitle     = {Learning Explicit and Implicit Structures for Targeted Sentiment Analysis},\nbooktitle = {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing},\nyear      = {2019}\n}",
+      "code": "https://github.com/leodotnet/ei"
+    },
     "Combining Spans into Entities: A Neural Two-Stage Approach for Recognizing Discontiguous Entities": {
       "authors": "Bailin Wang and Wei Lu",
       "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2019/bailinemnlp2019-disco.pdf",
