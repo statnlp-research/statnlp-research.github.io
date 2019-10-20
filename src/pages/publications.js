@@ -16,6 +16,7 @@ export default () => (
             <PublicationCard
               key={name}
               name={name}
+              venue={publicationData[year][name]["venue"]}
               authors={publicationData[year][name]["authors"]}
               paper={publicationData[year][name]["paper"]}
               bibtext={publicationData[year][name]["bibtext"]}
