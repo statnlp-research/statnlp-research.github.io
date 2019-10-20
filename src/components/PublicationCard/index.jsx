@@ -18,50 +18,48 @@ export default (props) => (
       subheader={props.authors}
       titleTypographyProps={{ variant:'h5' }}
     />
-    <div style={{ display: 'flex', position: "relative" }}>
-      <CardActions>
-        {
-          props.paper === "" ?
-          <Button variant="contained" style={{ background: "#CED9E0", color: "#ffff", textShadow: "none"}} disabled>
-            Download Paper
-            <FontAwesomeIcon icon={faDownload} style={{ marginLeft: "10px" }}/>
-          </Button>
-          :
-          <Button variant="contained" style={{ background: "#232F34", color: "#ffff", textShadow: "none"}} href={props.paper} target="_blank" rel="noopener">
-            Download Paper
-            <FontAwesomeIcon icon={faDownload} style={{ marginLeft: "10px" }}/>
-          </Button>
-        }
-        {
-          props.bibtext === "" ?
-          <Button variant="contained" style={{ background: "#CED9E0", color: "#ffff", textShadow: "none"}} disabled>
-            Copy Bibtex
-            <FontAwesomeIcon icon={faCopy} style={{ marginLeft: "10px" }}/>
-          </Button>
-          :
-          <CopyToClipboard text={props.bibtext}>
-             <span>
-               <Button variant="contained" style={{ background: "#232F34", color: "#ffff", textShadow: "none"}}>
-                 Copy Bibtex
-                 <FontAwesomeIcon icon={faCopy} style={{ marginLeft: "10px" }}/>
-               </Button>
-             </span>
-          </CopyToClipboard>
-        }
-        {
-          props.code === "" ?
-          <Button variant="contained" style={{ background: "#CED9E0", color: "#ffff", textShadow: "none"}} disabled>
-            Code
-            <FontAwesomeIcon icon={faFileCode} style={{ marginLeft: "10px" }}/>
-          </Button>
-          :
-          <Button variant="contained" style={{ background: "#232F34", color: "#ffff", textShadow: "none"}} href={props.code} target="_blank" rel="noopener">
-            Code
-            <FontAwesomeIcon icon={faFileCode} style={{ marginLeft: "10px" }}/>
-          </Button>
-        }
-      </CardActions>
-    </div>
+    <CardActions>
+      {
+        props.paper === "" ?
+        <Button variant="contained" style={{ background: "#CED9E0", color: "#ffff", textShadow: "none"}} disabled>
+          Download Paper
+          <FontAwesomeIcon icon={faDownload} style={{ marginLeft: "10px" }}/>
+        </Button>
+        :
+        <Button variant="contained" style={{ background: "#232F34", color: "#ffff", textShadow: "none"}} href={props.paper} target="_blank" rel="noopener">
+          Download Paper
+          <FontAwesomeIcon icon={faDownload} style={{ marginLeft: "10px" }}/>
+        </Button>
+      }
+      {
+        props.bibtext === "" ?
+        <Button variant="contained" style={{ background: "#CED9E0", color: "#ffff", textShadow: "none"}} disabled>
+          Copy Bibtex
+          <FontAwesomeIcon icon={faCopy} style={{ marginLeft: "10px" }}/>
+        </Button>
+        :
+        <CopyToClipboard text={props.bibtext}>
+           <span>
+             <Button variant="contained" style={{ background: "#232F34", color: "#ffff", textShadow: "none"}}>
+               Copy Bibtex
+               <FontAwesomeIcon icon={faCopy} style={{ marginLeft: "10px" }}/>
+             </Button>
+           </span>
+        </CopyToClipboard>
+      }
+      {
+        props.code === "" ?
+        <Button variant="contained" style={{ background: "#CED9E0", color: "#ffff", textShadow: "none"}} disabled>
+          Code
+          <FontAwesomeIcon icon={faFileCode} style={{ marginLeft: "10px" }}/>
+        </Button>
+        :
+        <Button variant="contained" style={{ background: "#232F34", color: "#ffff", textShadow: "none"}} href={props.code} target="_blank" rel="noopener">
+          Code
+          <FontAwesomeIcon icon={faFileCode} style={{ marginLeft: "10px" }}/>
+        </Button>
+      }
+    </CardActions>
     <Chip
       label={props.venue}
       size="small"
