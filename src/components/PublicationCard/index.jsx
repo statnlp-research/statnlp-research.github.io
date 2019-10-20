@@ -61,11 +61,11 @@ export default (props) => (
           </Button>
         }
       </CardActions>
-      <Chip
-        label={props.venue}
-        size="small"
-        style={{ background: "#232F34", color: "#ffff", textShadow: "none", fontSize: "12px", position: "absolute", bottom: 0, right: 0 }}
-      />
     </div>
+    <Chip
+      label={props.venue}
+      size="small"
+      style={{ background: "#232F34", color: "#ffff", textShadow: "none", fontSize: "12px", float: "right"  }}
+    />
   </Card>
 )

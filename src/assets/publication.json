@@ -64,7 +64,7 @@
       "code": "https://github.com/Cartus/AGGCN_TACRED"
     },
     "Densely Connected Graph Convolutional Networks for Graph-to-Sequence Learning": {
-      "venue": "ACL",
+      "venue": "TACL",
       "authors": "Zhijiang Guo*, Yan Zhang*, Zhiyang Teng and Wei Lu",
       "paper": "http://www.statnlp.org/wp-content/uploads/2019/03/DCGCN.pdf",
       "bibtext": "@article{dcgcnforgraph2seq19guo,\ntitle={Densely Connected Graph Convolutional Networks for Graph-to-Sequence Learning},\nauthor={Zhijiang Guo and Yan Zhang and Zhiyang Teng and Wei Lu},\njournal={Transactions of the Association of Computational Linguistics},\n year={2019},\n}",
@@ -94,7 +94,7 @@
   },
   "2018": {
     "Neural Segmental Hypergraphs for Overlapping Mention Recognition": {
-      "venue": "ACL",
+      "venue": "EMNLP",
       "authors": "Bailin Wang and Wei Lu",
       "paper": "http://www.statnlp.org/research/ie/emnlp2018-semi.pdf",
       "bibtext": "",
@@ -221,7 +221,7 @@
       "bibtext": "@inproceedings{susanto2017semantic,\ntitle={Semantic Parsing with Neural Hybrid Trees.},\nauthor={Susanto, Raymond Hendy and Lu, Wei},\nbooktitle={AAAI},\npages={3309--3315},\nyear={2017}\n}",
       "code": "https://gitlab.com/raymondhs/statnlp-sp-neural/"
     },
-    "Improving Word Embeddings with Convolutional Feature Learning and Subword Information ": {
+    "Improving Word Embeddings with Convolutional Feature Learning and Subword Information": {
       "venue": "AAAI",
       "authors": "Shaosheng Cao and Wei Lu",
       "paper": "https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14724",
@@ -231,42 +231,42 @@
   },
   "2016": {
     "A General Regularization Framework for Domain Adaptation": {
-      "venue": "ACL",
+      "venue": "EMNLP",
       "authors": "Wei Lu, Hai Leong Chieu and Jonathan Löfgren",
       "paper": "http://www.statnlp.org/research/ml/emnlp2016-720.pdf",
       "bibtext": "@inproceedings{lu2016general,\ntitle={A General Regularization Framework for Domain Adaptation.},\nauthor={Lu, Wei and Chieu, Hai Leong and L{\"o}fgren, Jonathan},\nbooktitle={EMNLP},\npages={950--954},\nyear={2016}\n}",
       "code": "http://www.statnlp.org/research/ml/code/emnlp-domain-adaptation.tar.gz"
     },
     "Learning to Capitalize with Character-Level Recurrent Neural Networks: An Empirical Study": {
-      "venue": "ACL",
+      "venue": "EMNLP",
       "authors": "Raymond Hendy Susanto, Hai Leong Chieu and Wei Lu",
       "paper": "http://www.statnlp.org/research/ta/rnn_truecase.pdf",
       "bibtext": "@InProceedings{susanto-chieu-lu:2016:EMNLP2016,\nauthor    = {Susanto, Raymond Hendy  and  Chieu, Hai Leong  and  Lu, Wei},\ntitle     = {Learning to Capitalize with Character-Level Recurrent Neural Networks: An Empirical\nStudy},\nbooktitle = {Proceedings of the 2016 Conference on Empirical Methods in Natural Language\nProcessing},\nmonth     = {November},\nyear      = {2016},\naddress   = {Austin, Texas},\npublisher = {Association for Computational Linguistics},\npages     = {2090--2095},\nurl       = {https://aclweb.org/anthology/D16-1225}\n}",
       "code": "https://gitlab.com/raymondhs/char-rnn-truecase"
     },
     "Learning to Recognize Discontiguous Entities": {
-      "venue": "ACL",
+      "venue": "EMNLP",
       "authors": "Aldrian Obaja Muis and Wei Lu",
       "paper": "http://www.statnlp.org/research/ie/emnlp2016-discontiguous-entities.pdf",
       "bibtext": "@inproceedings{muis2016learning,\ntitle={Learning to Recognize Discontiguous Entities.},\nauthor={Muis, Aldrian Obaja and Lu, Wei},\nbooktitle={EMNLP},\npages={75--84},\nyear={2016}\n}",
       "code": "http://www.statnlp.org/research/ie/code/learning-to-recognize-discontiguous-entities-code.zip"
     },
     "Improving Semantic Parsing with Enriched Synchronous Context-Free Grammars in Statistical Machine Translation": {
-      "venue": "ACL",
+      "venue": "TALLIP",
       "authors": "Junhui Li, Muhua Zhu,  Wei Lu, and Guodong Zhou",
       "paper": "https://dl.acm.org/citation.cfm?id=2963099",
       "bibtext": "@article{li2016improving,title={Improving Semantic Parsing with Enriched Synchronous Context-Free Grammars in Statistical\nMachine Translation},\nauthor={Li, Junhui and Zhu, Muhua and Lu, Wei and Zhou, Guodong},\njournal={ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)},\nvolume={16},\nnumber={1},\npages={6},\nyear={2016},\npublisher={ACM}\n}\near={2015} }",
       "code": ""
     },
     "Weak Semi-Markov CRFs for NP Chunking in Informal Text": {
-      "venue": "ACL",
+      "venue": "NAACL",
       "authors": "Aldrian Obaja Muis and Wei Lu",
       "paper": "https://arxiv.org/abs/1810.08567",
       "bibtext": "@InProceedings{muis-lu:2016:N16-1,\nauthor    = {Muis, Aldrian Obaja  and  Lu, Wei},\ntitle     = {Weak Semi-Markov CRFs for Noun Phrase Chunking in Informal Text},\nbooktitle = {Proceedings of the 2016 Conference of the North American Chapter of the Association\nfor Computational Linguistics: Human Language Technologies},\nmonth     = {June},\nyear      = {2016},\naddress   = {San Diego, California},\npublisher = {Association for Computational Linguistics},\npages     = {714--719},\nurl       = {http://www.aclweb.org/anthology/N16-1085}\n}",
       "code": "http://statnlp.org/research/ie/code/weak-semi-crf-in-informal-text-code.zip"
     },
     "Deep Neural Networks for Learning Graph Representations": {
-      "venue": "ACL",
+      "venue": "AAAI",
       "authors": "Shaosheng Cao, Wei Lu and Qiongkai Xu",
       "paper": "https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12423/11715",
       "bibtext": "@inproceedings{cao2016deep,\ntitle={Deep neural networks for learning graph representations},\nauthor={Cao, Shaosheng and Lu, Wei and Xu, Qiongkai},\nbooktitle={Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence},\npages={1145--1152},\nyear={2016},\norganization={AAAI Press}\n}",
@@ -275,21 +275,21 @@
   },
   "2015": {
     "Joint Mention Extraction and Classification with Mention Hypergraphs": {
-      "venue": "ACL",
+      "venue": "EMNLP",
       "authors": "Wei Lu and Dan Roth",
       "paper": "https://www.aclweb.org/anthology/D15-1102",
       "bibtext": "@InProceedings{lu-roth:2015:EMNLP,\nauthor    = {Lu, Wei  and  Roth, Dan},\ntitle     = {Joint Mention Extraction and Classification with Mention Hypergraphs},\nbooktitle = {Proceedings of the 2015 Conference on Empirical Methods in Natural Language\nProcessing},\nmonth     = {September},\nyear      = {2015},\naddress   = {Lisbon, Portugal},\npublisher = {Association for Computational Linguistics},\npages     = {857--867},\nurl       = {http://aclweb.org/anthology/D15-1102}\n}",
       "code": "http://www.statnlp.org/research/ie/code/statnlp-mentionextraction.v0.2.tgz"
     },
     "Constrained Semantic Forests for Improved Discriminative Semantic Parsing": {
-      "venue": "ACL",
+      "venue": "ACL-IJCNLP",
       "authors": "Wei Lu",
       "paper": "https://www.aclweb.org/anthology/P15-2121",
       "bibtext": "@inproceedings{lu2015constrained,\ntitle={Constrained Semantic Forests for Improved Discriminative Semantic Parsing.},\nauthor={Lu, Wei},\nbooktitle={ACL (2)},\npages={737--742},\nyear={2015}\n}",
       "code": "http://www.statnlp.org/research/sp/code/sp.v0.2.tgz"
     },
     "GraRep: Learning Graph Representations with Global Structural Information": {
-      "venue": "ACL",
+      "venue": "CIKM",
       "authors": "Shaosheng Cao, Wei Lu and Qiongkai Xu",
       "paper": "https://dl.acm.org/citation.cfm?id=2806512&dl=ACM&coll=DL",
       "bibtext": "@inproceedings{cao2015grarep,\ntitle={Grarep: Learning graph representations with global structural information},\nauthor={Cao, Shaosheng and Lu, Wei and Xu, Qiongkai},\nbooktitle={Proceedings of the 24th ACM International on Conference on Information and Knowledge\nManagement},\npages={891--900},\nyear={2015},\norganization={ACM}\n}",
@@ -341,7 +341,7 @@
   },
   "2009": {
     "Natural Language Generation with Tree Conditional Random Fields": {
-      "venue": "ACL",
+      "venue": "EMNLP",
       "authors": "Wei Lu, Hwee Tou Ng and Wee Sun Lee",
       "paper": "http://statnlp.com/people/luwei/publications/emnlp09lnl.pdf",
       "bibtext": "@inproceedings{lu2009natural,\ntitle={Natural language generation with tree conditional random fields},\nauthor={Lu, Wei and Ng, Hwee Tou and Lee, Wee Sun},\nbooktitle={Proceedings of the 2009 Conference on Empirical Methods in Natural Language\nProcessing: Volume 1-Volume 1},\npages={400--409},\nyear={2009},\norganization={Association for Computational Linguistics}\n}",
@@ -350,7 +350,7 @@
   },
   "2008": {
     "A Generative Model for Parsing Natural Language to Meaning Representations": {
-      "venue": "ACL",
+      "venue": "EMNLP",
       "authors": "Wei Lu, Hwee Tou Ng, Wee Sun Lee and Luke S. Zettlemoyer",
       "paper": "http://statnlp.com/people/luwei/publications/emnlp08lnlz.pdf",
       "bibtext": "@inproceedings{lu2008generative,\ntitle={A generative model for parsing natural language to meaning representations},\nauthor={Lu, Wei and Ng, Hwee Tou and Lee, Wee Sun and Zettlemoyer, Luke S},\nbooktitle={Proceedings of the Conference on Empirical Methods in Natural Language Processing},\npages={783--792},\nyear={2008},\norganization={Association for Computational Linguistics}\n}",
