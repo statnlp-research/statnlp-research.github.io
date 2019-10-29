@@ -101,7 +101,7 @@
       "code": "https://github.com/berlino/overlapping-ner-em18"
     },
     "A Neural Transition-based Model for Nested Mention Recognition": {
-      "venue": "ACL",
+      "venue": "EMNLP",
       "authors": "Bailin Wang, Wei Lu, Yu Wang and Hongxia Jin",
       "paper": "http://www.statnlp.org/research/ie/emnlp2018-transition.pdf",
       "bibtext": "",
