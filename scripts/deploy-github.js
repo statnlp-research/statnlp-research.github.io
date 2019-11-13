@@ -5,7 +5,7 @@ ghpages.publish(
   'public',
   {
     branch: 'master',
-    repo: 'https://github.com/statnlp-research/statnlp-research.github.io.git',
+    repo: 'https://github.com/statnlp-research/statnlp-research.github.io.git'
   },
   () => {
     console.log('Deploy Complete!')
