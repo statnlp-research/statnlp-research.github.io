@@ -12,7 +12,7 @@
     "github": ""
   },
   "Cheng Juan": {
-    "role": "staff",
+    "role": "alumni",
     "title": "Postdoc",
     "researchInterest": [
       "Sentiment Analysis",
@@ -48,7 +48,7 @@
     "github": ""
   },
   "Zhuang Boyuan": {
-    "role": "staff",
+    "role": "alumni",
     "title": "Research Asst.",
     "researchInterest": [
       "Discourse Analysis",
@@ -72,7 +72,7 @@
     "github": ""
   },
   "Liao Jing": {
-    "role": "staff",
+    "role": "alumni",
     "title": "Visiting Student",
     "researchInterest": [
       "Sentiment Analysis",
@@ -92,7 +92,7 @@
     "linkedin": "https://sg.linkedin.com/in/liying-cheng-1210608b",
     "github": ""
   },
-  "Guo ZhiJiang": {
+  "Guo Zhijiang": {
     "title": "PhD Student",
     "researchInterest": [
       "Syntatic Parsing",
@@ -103,7 +103,8 @@
     "github": "https://github.com/Cartus"
   },
   "Jie Zhanming": {
-    "title": "PhD Student",
+    "role": "alumni",
+    "title": "PhD Graduate",
     "researchInterest": [
       "Semantic Parsing",
       "Named Entity Recognition"
@@ -124,7 +125,8 @@
     "github": "https://github.com/joelowj"
   },
   "Li Hao": {
-    "title": "PhD Student",
+    "role": "alumni",
+    "title": "PhD Graduate",
     "researchInterest": [
       "Machine Learning",
       "Artificial Intelligence",
@@ -209,7 +211,7 @@
     "github": ""
   },
   "Ivan Sekulic": {
-    "role": "staff",
+    "role": "alumni",
     "title": "Research Intern",
     "researchInterest": [
       "Machine Learning",

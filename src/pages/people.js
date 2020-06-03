@@ -46,7 +46,7 @@ export default () => (
         }
       )}
     </div>
-    <h1>Staffs</h1>
+    <h1>Staff</h1>
     <div style={{ display: 'flex', flexWrap: 'wrap' }}>
       { Object.keys(peopleData).map((name, i) => {
           if (peopleData[name]["role"] === "staff") {
