@@ -17,6 +17,10 @@ const partnerStyle = {
     padding: "45px",
     marginTop: "-50px"
   },
+  bytedance: {
+    justifyContent: "center",
+    marginTop: "-30px"
+  },
   boeing: {
     padding: "45px",
     marginTop: "-30px"
@@ -28,6 +32,10 @@ const partnerStyle = {
   idc: {
     justifyContent: "center",
     marginLeft: "85px"
+  },
+  mfa: {
+    justifyContent: "center",
+    marginTop: "-100px"
   },
   mindef: {
     justifyContent: "center",
