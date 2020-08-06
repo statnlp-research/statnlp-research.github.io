@@ -50,6 +50,7 @@ export default () => (
     <div style={{ display: 'flex', flexWrap: 'wrap' }}>
       { Object.keys(peopleData).map((name, i) => {
           if (peopleData[name]["role"] === "staff") {
+            console.log(name)
             return (
               <PeopleCard
                 key={i}

@@ -83,14 +83,117 @@
     "linkedin": "",
     "github": "https://github.com/jingliao132"
   },
+  "Ivan Sekulic": {
+    "role": "alumni",
+    "title": "Research Intern",
+    "researchInterest": [
+      "Machine Learning",
+      "Natural Language Processing"
+    ],
+    "googlescholar": "",
+    "linkedin": "https://www.linkedin.com/in/isekulic/",
+    "github": "https://github.com/isekulic"
+  },
+  "Guoqing Luo": {
+    "role": "staff",
+    "title": "Research Intern",
+    "researchInterest": [
+      "Relation Extraction",
+      "Named Entity Recognition",
+      "Dialogue System"
+    ],
+    "googlescholar": "",
+    "linkedin": "https://www.linkedin.com/in/guoqing-luo-5a2657198/",
+    "github": "https://github.com/frankdarkluo"
+  },
+  "Ankit Garg": {
+    "role": "staff",
+    "title": "Research Intern",
+    "researchInterest": [
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Natural Language Processing"
+    ],
+    "googlescholar": "",
+    "linkedin": "https://www.linkedin.com/in/ankitgarg2123/",
+    "github": ""
+  },
+ "Wang Huiming": {
+   "role": "staff",
+   "title": "Research Intern",
+   "researchInterest": [
+     "Named Entity Recognition",
+     "Semantic Parsing",
+     "Machine Learning"
+   ],
+   "googlescholar": "",
+   "linkedin": "",
+   "github": "https://github.com/Circle-Ming"
+ },
+ "Leng Sicong": {
+   "role": "staff",
+   "title": "Research Intern",
+   "researchInterest": [
+     "Information Extraction"
+   ],
+   "googlescholar": "",
+   "linkedin": "https://www.linkedin.com/in/sicong-leng-203516179/",
+   "github": ""
+ },
+ "Li Jiaxi": {
+   "role": "staff",
+   "title": "Research Intern",
+   "researchInterest": [
+     "Natural Language Processing"
+   ],
+   "googlescholar": "",
+   "linkedin": "https://www.linkedin.com/in/jiaxi-li-725759195/",
+   "github": ""
+ },
+ "Zeng Jiaqi": {
+   "role": "staff",
+   "title": "Research Intern",
+   "researchInterest": [
+     "Causal Inference",
+     "Graph Neural Networks",
+     "Natural Langauge Processing"
+   ],
+   "googlescholar": "",
+   "linkedin": "",
+   "github": ""
+ },
+ "Zhou Yuxiang": {
+   "role": "staff",
+   "title": "Visiting Student",
+   "researchInterest": [
+     "Text Classification",
+     "Sentiment Analysis",
+     "Information Extraction"
+   ],
+   "googlescholar": "",
+   "linkedin": "",
+   "github": "https://github.com/ZhouyxNLP"
+ },
+ "Zeng Guangtao": {
+   "role": "staff",
+   "title": "Visiting Student",
+   "researchInterest": [
+     "Natural Language Processing"
+   ],
+   "googlescholar": "",
+   "linkedin": "",
+   "github": ""
+ },
   "Cheng Liying": {
     "title": "PhD Student",
     "researchInterest": [
-      "Text Generation"
+      "Text Generation",
+      "Argument Mining",
+      "Natural Language Processing"
     ],
     "googlescholar": "",
     "linkedin": "https://sg.linkedin.com/in/liying-cheng-1210608b",
-    "github": ""
+    "github": "https://github.com/LiyingCheng95"
   },
   "Guo Zhijiang": {
     "title": "PhD Student",
@@ -209,52 +312,5 @@
     "googlescholar": "",
     "linkedin": "https://www.linkedin.com/in/yanyan-zou-8782b778/",
     "github": ""
-  },
-  "Ivan Sekulic": {
-    "role": "alumni",
-    "title": "Research Intern",
-    "researchInterest": [
-      "Machine Learning",
-      "Natural Language Processing"
-    ],
-    "googlescholar": "",
-    "linkedin": "https://www.linkedin.com/in/isekulic/",
-    "github": "https://github.com/isekulic"
-  },
-  "Guoqing Luo": {
-    "role": "staff",
-    "title": "Research Intern",
-    "researchInterest": [
-      "Relation Extraction",
-      "Named Entity Recognition",
-      "Dialogue System"
-    ],
-    "googlescholar": "",
-    "linkedin": "",
-    "github": ""
-  },
- "Wang Huiming": {
-   "role": "staff",
-   "title": "Research Intern",
-   "researchInterest": [
-     "Named Entity Recognition",
-     "Semantic Parsing",
-     "Machine Learning"
-   ],
-   "googlescholar": "",
-   "linkedin": "",
-   "github": "https://github.com/Circle-Ming"
- },
- "Zhou Yuxiang": {
-   "role": "staff",
-   "title": "Visiting Student",
-   "researchInterest": [
-     "Text Classification",
-     "Sentiment Analysis",
-     "Information Extraction"
-   ],
-   "googlescholar": "",
-   "linkedin": "",
-   "github": "https://github.com/ZhouyxNLP"
- }
+  }
 }
