@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{vx99:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),i=t.n(a),o=t("M8b6");n.default=function(){return i.a.createElement("div",{style:{margin:"2rem auto",maxWidth:1e3}},i.a.createElement(o.a,null),i.a.createElement("h1",{style:{display:"flex",alignItems:"center",justifyContent:"center",marginTop:"45vh"}},"To be coming soon!"))}}}]);
-//# sourceMappingURL=component---src-pages-blog-js-bc007fb044de2c3e3607.js.map

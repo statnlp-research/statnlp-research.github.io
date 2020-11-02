@@ -1,0 +1,1 @@
+.App-logo{position:absolute;animation:rotation 60s linear infinite;pointer-events:none;height:80vw;width:80vw;top:-40vw;right:-40vw;z-index:-1}@keyframes rotation{0%{transform:rotate(0deg)}to{transform:rotate(359deg)}}
