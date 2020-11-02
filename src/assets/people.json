@@ -219,9 +219,9 @@
   "Joel Ong": {
     "title": "PhD Student",
     "researchInterest": [
-      "Natural Language Parsing",
+      "Theory of Variational Inference",
       "Machine Learning in Finance",
-      "Reinforcement Learning"
+      "Unsupervised & Generative Modeling"
     ],
     "googlescholar": "",
     "linkedin": "",
@@ -293,7 +293,8 @@
     "github": "https://github.com/xuuuluuu"
   },
   "Zhang Yan": {
-    "title": "PhD Student",
+    "role": "alumni",
+    "title": "PhD Graduate",
     "researchInterest": [
       "Graph Neural Networks",
       "Knowledge Representation & Reasoning"
@@ -302,8 +303,19 @@
     "linkedin": "https://www.linkedin.com/in/zhang-yan-1001940/",
     "github": ""
   },
-  "Zou Yanyan": {
+  "Zhang Qi": {
     "title": "PhD Student",
+    "researchInterest": [
+      "Natural Language Processing",
+      "Semantic Parsing"
+    ],
+    "googlescholar": "",
+    "linkedin": "",
+    "github": ""
+  },
+  "Zou Yanyan": {
+    "role": "alumni",
+    "title": "PhD Graduate",
     "researchInterest": [
       "Natural Language Understanding",
       "Semantic Parsing",
