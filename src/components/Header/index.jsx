@@ -30,7 +30,7 @@ export default () => (
         <ListLink to="/about/">About</ListLink>
         <ListLink to="/people/">People</ListLink>
         <ListLink to="/publications/">Publications</ListLink>
-        <ListLink to="/tools/">Tools</ListLink>
+        <ListLink to="/resources/">Resources</ListLink>
       </ul>
     </div>
   </AppBar>
