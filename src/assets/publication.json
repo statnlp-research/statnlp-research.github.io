@@ -1,4 +1,90 @@
 {
+  "2020": {
+    "Understanding Attention for Text Classification": {
+        "venue": "EMNLP",
+        "authors": "Xiaobing Sun and Wei Lu",
+        "paper": "",
+        "bibtext": "",
+        "code": ""
+    },
+    "Reasoning with Latent Structure Refinement for Document-Level Relation Extraction": {
+        "venue": "EMNLP",
+        "authors": "Guoshun Nan, Zhijiang Guo, Ivan Sekulić and Wei Lu",
+        "paper": "",
+        "bibtext": "",
+        "code": ""
+    },
+    "Two are Better Than One: Joint Entity and Relation Extraction with Table-Sequence Encoders": {
+        "venue": "EMNLP",
+        "authors": "Jue Wang and Wei Lu",
+        "paper": "",
+        "bibtext": "",
+        "code": ""
+    },
+    "Pre-training for Abstractive Document Summarization by Reinstating Source Text": {
+        "venue": "EMNLP",
+        "authors": "Yanyan Zou, Xingxing Zhang, Wei Lu, Furu Wei and Ming Zhou",
+        "paper": "",
+        "bibtext": "",
+        "code": ""
+    },
+    "Position-Aware Tagging for Aspect Sentiment Triplet Extraction": {
+        "venue": "EMNLP",
+        "authors": "Lu Xu, Hao Li, Wei Lu and Lidong Bing",
+        "paper": "",
+        "bibtext": "",
+        "code": ""
+    },
+    "Aspect Based Sentiment Analysis with Aspect-Specific Opinion Spans": {
+        "venue": "EMNLP",
+        "authors": "Lu Xu, Lidong Bing, Wei Lu and Fei Huang",
+        "paper": "",
+        "bibtext": "",
+        "code": ""
+    },
+    "Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation": {
+        "venue": "EMNLP",
+        "authors": "Yan Zhang, Zhijiang Guo, Zhiyang Teng, Wei Lu, Shay B. Cohen, Zuozhu Liu, Lidong Bing",
+        "paper": "",
+        "bibtext": "",
+        "code": ""
+    },
+    "Knowledge Graph Empowered Entity Description Generation": {
+        "venue": "EMNLP",
+        "authors": "Liying Cheng, Dekun Wu, Lidong Bing, Yan Zhang, Zhanming Jie, Wei Lu and Luo Si",
+        "paper": "",
+        "bibtext": "",
+        "code": ""
+    },
+    "Re-examining the Role of Schema Linking in Text-to-SQL": {
+        "venue": "EMNLP",
+        "authors": "Wenqiang Lei, Weixin Wang, Zhixin Ma, Tian Gan, Wei Lu, Min-Yen Kan and Tat-Seng Chua",
+        "paper": "",
+        "bibtext": "",
+        "code": ""
+    },
+    "Attention-based Context Aware Reasoning for Situation Recognition": {
+        "venue": "CVPR",
+        "authors": "Thilini Cooray, Ngai-Man Cheung and Wei Lu",
+        "paper": "",
+        "bibtext": "",
+        "code": ""
+    },
+    "Learning Latent Forests for Medical Relation Extraction": {
+        "venue": "IJCAI",
+        "authors": "Zhijiang Guo, Guoshun Nan, Wei Lu and Shay B. Cohen",
+        "paper": "",
+        "bibtext": "",
+        "code": ""
+    },
+    "Knowing What, How and Why: a Near Complete Solution for Aspect-based Sentiment Analysis": {
+      "venue": "AAAI",
+      "authors": "Haiyun Peng, Lu Xu, Lidong Bing, Fei Huang, Wei Lu, and Luo Si",
+      "paper": "",
+      "bibtext": "",
+      "code": ""
+    }
+  },
   "2019": {
     "Text2Math: End-to-end Parsing Text into Math Expressions": {
       "venue": "EMNLP",
