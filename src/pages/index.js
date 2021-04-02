@@ -7,7 +7,7 @@ import '../assets/styles/index.css'
 export default () => (
   <div style={{ margin: `5rem auto` }}>
     <Header />
-    <Card style={{ margin: 160, padding: "25px", height: '200px', width: '600px', zIndex: 9999 }}>
+    <Card style={{ margin: 160, padding: "25px", height: '200px', width: '620px', zIndex: 9999 }}>
       <h1>Our Vision</h1>
       Conduct world-class research & Nurture world-class researchers
     </Card>
