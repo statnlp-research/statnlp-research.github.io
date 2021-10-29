@@ -1,18 +1,18 @@
 {
   "2020": {
     "Understanding Attention for Text Classification": {
-        "venue": "EMNLP",
+        "venue": "ACL",
         "authors": "Xiaobing Sun and Wei Lu",
         "paper": "",
         "bibtext": "",
-        "code": ""
+        "code": "https://github.com/richardsun-voyager/UAFTC"
     },
     "Reasoning with Latent Structure Refinement for Document-Level Relation Extraction": {
-        "venue": "EMNLP",
+        "venue": "ACL",
         "authors": "Guoshun Nan, Zhijiang Guo, Ivan Sekulić and Wei Lu",
         "paper": "",
         "bibtext": "",
-        "code": ""
+        "code": "https://github.com/nanguoshun/LSR"
     },
     "Two are Better Than One: Joint Entity and Relation Extraction with Table-Sequence Encoders": {
         "venue": "EMNLP",
@@ -31,16 +31,16 @@
     "Position-Aware Tagging for Aspect Sentiment Triplet Extraction": {
         "venue": "EMNLP",
         "authors": "Lu Xu, Hao Li, Wei Lu and Lidong Bing",
-        "paper": "",
+        "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2020/position_aware_aste.pdf",
         "bibtext": "",
-        "code": ""
+        "code": "https://github.com/xuuuluuu/Position-Aware-Tagging-for-ASTE"
     },
     "Aspect Based Sentiment Analysis with Aspect-Specific Opinion Spans": {
         "venue": "EMNLP",
         "authors": "Lu Xu, Lidong Bing, Wei Lu and Fei Huang",
-        "paper": "",
+        "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2020/mcrf_absa.pdf",
         "bibtext": "",
-        "code": ""
+        "code": "https://github.com/xuuuluuu/Aspect-Sentiment-Classification"
     },
     "Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation": {
         "venue": "EMNLP",
@@ -82,7 +82,7 @@
       "authors": "Haiyun Peng, Lu Xu, Lidong Bing, Fei Huang, Wei Lu, and Luo Si",
       "paper": "",
       "bibtext": "",
-      "code": ""
+      "code": "https://github.com/xuuuluuu/SemEval-Triplet-data"
     }
   },
   "2019": {
