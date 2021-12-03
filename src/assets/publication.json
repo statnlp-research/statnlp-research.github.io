@@ -1,87 +1,131 @@
 {
+  "2021": {
+    "To be Closer: Learning to Link up Aspects with Opinions": {
+      "venue": "EMNLP",
+      "authors": "Yuxiang Zhou, Lejian Liao, Yang Gao, Zhanming Jie, Wei Lu",
+      "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2021/zhouyx.pdf",
+      "bibtext": "@InProceedings{zhou2021closer,\nauthor    = {Yuxiang Zhou and Lejian Liao and Yang Gao and Zhanming Jie and Wei Lu},\ntitle     = {To be Closer: Learning to Link up Aspects with Opinions},\nbooktitle = {Proceedings of EMNLP},\nyear      = {2021}\n}",
+      "code": "https://github.com/zyxnlp/aclt"
+    },
+    "Exploring Task Difficulty for Few-Shot Relation Extraction":{
+      "venue": "EMNLP",
+      "authors": "Jiale Han, Bo Cheng, Wei Lu",
+      "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2021/hanjl.pdf",
+      "bibtext": "@InProceedings{han2021exploring,\nauthor    = {Jiale Han and Bo Cheng and Wei Lu},\ntitle     = {Exploring Task Difficulty for Few-Shot Relation Extraction},\nbooktitle = {Proceedings of EMNLP},\nyear      = {2021}\n}",
+      "code": "https://github.com/hanjiale/hcrp"
+    },
+    "Uncovering Main Causalities for Long-tailed Information Extraction": {
+      "venue": "EMNLP",
+      "authors": "Guoshun Nan, Jiaqi Zeng, Rui Qiao, Zhijiang Guo, Wei Lu",
+      "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2021/nangs.pdf",
+      "bibtext": "@InProceedings{nan2021uncovering,\nauthor    = {Guoshun Nan, Jiaqi Zeng, Rui Qiao, Zhijiang Guo, Wei Lu},\ntitle     = {Uncovering Main Causalities for Long-tailed Information Extraction},\nbooktitle = {Proceedings of EMNLP},\nyear      = {2021}\n}",
+      "code": "https://github.com/HeyyyyyyG/CFIE"
+    },
+    "Mixed Cross Entropy Loss for Neural Machine Translation": {
+      "venue": "ICML",
+      "authors": "Haoran Li and Wei Lu",
+      "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2021/li21n.pdf",
+      "bibtext": "@InProceedings{pmlr-v139-li21n,\nauthor    = {Li Haoran  and  Lu, Wei},\ntitle     = {Mixed Cross Entropy Loss for Neural Machine Translation},\nbooktitle = {Proceedings of Machine Learning Research},\nyear      = {2021}\n}",
+      "code": "https://github.com/haorannlp/mix"
+    },
+    "Interventional Video Grounding with Dual Contrastive Learning": {
+      "venue": "CVPR",
+      "authors": "Guoshun Nan, Rui Qiao, Yao Xiao, Jun Liu, Sicong Leng, Hao Zhang, Wei Lu",
+      "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2021/nangs0.pdf",
+      "bibtext":"@inproceedings{Nan_2021_CVPR,\n  title= {Interventional Video Grounding With Dual Contrastive Learning},\n  author={Nan, Guoshun and Qiao, Rui and Xiao, Yao and Liu, Jun and Leng, Sicong and Zhang, Hao and Lu, Wei},\n  booktitle={Proceedings of CVPR},\n  year={2021},\n  url={https://openaccess.thecvf.com/content/CVPR2021/papers/Nan_Interventional_Video_Grounding_With_Dual_Contrastive_Learning_CVPR_2021_paper.pdf}\n}",
+      "code": ""
+    },
+    "Better Feature Integration for Named Entity Recognition": {
+      "venue": "NAACL",
+      "authors": "Lu Xu, Zhanming Jie, Wei Lu, Lidong Bing",
+      "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2021/better_feature_ner.pdf",
+      "bibtext":"@inproceedings{Xu2021BetterFI,\n  title={Better Feature Integration for Named Entity Recognition},\n  author={Lu Xu and Lu Xu and Zhanming Jie and Wei Lu and Lidong Bing},\n  booktitle={Proceedings of NAACL},\n  year={2021},\n  url={https://aclanthology.org/2021.naacl-main.271.pdf}\n}",
+      "code": "https://github.com/xuuuluuu/SynLSTM-for-NER"
+    }
+  },
   "2020": {
     "Understanding Attention for Text Classification": {
-        "venue": "ACL",
-        "authors": "Xiaobing Sun and Wei Lu",
-        "paper": "",
-        "bibtext": "",
-        "code": "https://github.com/richardsun-voyager/UAFTC"
+      "venue": "ACL",
+      "authors": "Xiaobing Sun and Wei Lu",
+      "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2020/understand_attention.pdf",
+      "bibtext": "@InProceedings{sun-lu-2020-understanding,\nauthor    = {Sun, Xiaobing  and  Lu, Wei},\ntitle     = {Understanding Attention for Text Classification},\nbooktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics},\nyear      = {2020}\n}",
+      "code": "https://github.com/richardsun-voyager/UAFTC"
     },
     "Reasoning with Latent Structure Refinement for Document-Level Relation Extraction": {
-        "venue": "ACL",
-        "authors": "Guoshun Nan, Zhijiang Guo, Ivan Sekulić and Wei Lu",
-        "paper": "",
-        "bibtext": "",
-        "code": "https://github.com/nanguoshun/LSR"
-    },
-    "Two are Better Than One: Joint Entity and Relation Extraction with Table-Sequence Encoders": {
-        "venue": "EMNLP",
-        "authors": "Jue Wang and Wei Lu",
-        "paper": "",
-        "bibtext": "",
-        "code": ""
-    },
-    "Pre-training for Abstractive Document Summarization by Reinstating Source Text": {
-        "venue": "EMNLP",
-        "authors": "Yanyan Zou, Xingxing Zhang, Wei Lu, Furu Wei and Ming Zhou",
-        "paper": "",
-        "bibtext": "",
-        "code": ""
+      "venue": "ACL",
+      "authors": "Guoshun Nan, Zhijiang Guo, Ivan Sekulić and Wei Lu",
+      "paper": "",
+      "bibtext": "",
+      "code": "https://github.com/nanguoshun/LSR"
     },
     "Position-Aware Tagging for Aspect Sentiment Triplet Extraction": {
-        "venue": "EMNLP",
-        "authors": "Lu Xu, Hao Li, Wei Lu and Lidong Bing",
-        "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2020/position_aware_aste.pdf",
-        "bibtext": "",
-        "code": "https://github.com/xuuuluuu/Position-Aware-Tagging-for-ASTE"
+      "venue": "EMNLP",
+      "authors": "Lu Xu, Hao Li, Wei Lu and Lidong Bing",
+      "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2020/position_aware_aste.pdf",
+      "bibtext": "@inproceedings{xu2020,\n    title = \"Aspect Sentiment Classification with Aspect-Specific Opinion Spans\",\n    author = \"Xu, Lu and Bing, Lidong and Lu, Wei and Huang, Fei\",\n    booktitle = \"Proceedings of EMNLP\",\n    url = {https://www.aclweb.org/anthology/2020.emnlp-main.288.pdf},\n    year = \"2020\"\n}",
+      "code": "https://github.com/xuuuluuu/Position-Aware-Tagging-for-ASTE"
     },
     "Aspect Based Sentiment Analysis with Aspect-Specific Opinion Spans": {
-        "venue": "EMNLP",
-        "authors": "Lu Xu, Lidong Bing, Wei Lu and Fei Huang",
-        "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2020/mcrf_absa.pdf",
-        "bibtext": "",
-        "code": "https://github.com/xuuuluuu/Aspect-Sentiment-Classification"
+      "venue": "EMNLP",
+      "authors": "Lu Xu, Lidong Bing, Wei Lu and Fei Huang",
+      "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2020/mcrf_absa.pdf",
+      "bibtext": "@inproceedings{Xu2020PositionAwareTF,\n    title={Position-Aware Tagging for Aspect Sentiment Triplet Extraction},\n    author={Lu Xu and Hao Li and W. Lu and Lidong Bing},\n    booktitle = \"Proceedings of EMNLP\",\n    url = {https://www.aclweb.org/anthology/2020.emnlp-main.183.pdf},\n    year = \"2020\"\n}",
+      "code": "https://github.com/xuuuluuu/Aspect-Sentiment-Classification"
+    },
+    "Two are Better Than One: Joint Entity and Relation Extraction with Table-Sequence Encoders": {
+      "venue": "EMNLP",
+      "authors": "Jue Wang and Wei Lu",
+      "paper": "",
+      "bibtext": "",
+      "code": ""
+    },
+    "Pre-training for Abstractive Document Summarization by Reinstating Source Text": {
+      "venue": "EMNLP",
+      "authors": "Yanyan Zou, Xingxing Zhang, Wei Lu, Furu Wei and Ming Zhou",
+      "paper": "",
+      "bibtext": "",
+      "code": ""
     },
     "Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation": {
-        "venue": "EMNLP",
-        "authors": "Yan Zhang, Zhijiang Guo, Zhiyang Teng, Wei Lu, Shay B. Cohen, Zuozhu Liu, Lidong Bing",
-        "paper": "",
-        "bibtext": "",
-        "code": ""
+      "venue": "EMNLP",
+      "authors": "Yan Zhang, Zhijiang Guo, Zhiyang Teng, Wei Lu, Shay B. Cohen, Zuozhu Liu, Lidong Bing",
+      "paper": "",
+      "bibtext": "",
+      "code": ""
     },
     "Knowledge Graph Empowered Entity Description Generation": {
-        "venue": "EMNLP",
-        "authors": "Liying Cheng, Dekun Wu, Lidong Bing, Yan Zhang, Zhanming Jie, Wei Lu and Luo Si",
-        "paper": "",
-        "bibtext": "",
-        "code": ""
+      "venue": "EMNLP",
+      "authors": "Liying Cheng, Dekun Wu, Lidong Bing, Yan Zhang, Zhanming Jie, Wei Lu and Luo Si",
+      "paper": "",
+      "bibtext": "",
+      "code": ""
     },
     "Re-examining the Role of Schema Linking in Text-to-SQL": {
-        "venue": "EMNLP",
-        "authors": "Wenqiang Lei, Weixin Wang, Zhixin Ma, Tian Gan, Wei Lu, Min-Yen Kan and Tat-Seng Chua",
-        "paper": "",
-        "bibtext": "",
-        "code": "n"
+      "venue": "EMNLP",
+      "authors": "Wenqiang Lei, Weixin Wang, Zhixin Ma, Tian Gan, Wei Lu, Min-Yen Kan and Tat-Seng Chua",
+      "paper": "",
+      "bibtext": "",
+      "code": ""
     },
     "Attention-based Context Aware Reasoning for Situation Recognition": {
-        "venue": "CVPR",
-        "authors": "Thilini Cooray, Ngai-Man Cheung and Wei Lu",
-        "paper": "",
-        "bibtext": "",
-        "code": ""
+      "venue": "CVPR",
+      "authors": "Thilini Cooray, Ngai-Man Cheung and Wei Lu",
+      "paper": "",
+      "bibtext": "",
+      "code": ""
     },
     "Learning Latent Forests for Medical Relation Extraction": {
-        "venue": "IJCAI",
-        "authors": "Zhijiang Guo, Guoshun Nan, Wei Lu and Shay B. Cohen",
-        "paper": "",
-        "bibtext": "",
-        "code": " "
+      "venue": "IJCAI",
+      "authors": "Zhijiang Guo, Guoshun Nan, Wei Lu and Shay B. Cohen",
+      "paper": "",
+      "bibtext": "",
+      "code": ""
     },
     "Knowing What, How and Why: a Near Complete Solution for Aspect-based Sentiment Analysis": {
       "venue": "AAAI",
       "authors": "Haiyun Peng, Lu Xu, Lidong Bing, Fei Huang, Wei Lu, and Luo Si",
-      "paper": "",
-      "bibtext": "",
+      "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2020/aste.pdf",
+      "bibtext": "@inproceedings{peng2020knowing,\n    title={Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis},\n    author={Haiyun Peng and Lu Xu and Lidong Bing and Fei Huang and Wei Lu and Luo Si},\n    year={2020},\n    booktitle = \"Proceedings of AAAI\",\n    url={https://ojs.aaai.org//index.php/AAAI/article/view/6383}\n}",
       "code": "https://github.com/xuuuluuu/SemEval-Triplet-data"
     }
   },
@@ -94,14 +138,14 @@
       "code": "https://github.com/zoezou2015/text2math"
     },
     "Aligning Cross-lingual Entities with Multi-Aspect Information": {
-    "venue": "EMNLP",
-    "authors": "Hsiu-Wei Yang∗, Yanyan Zou∗, Peng Shi∗, Wei Lu, Jimmy Lin, and Xu Sun",
-    "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2019/Cross_ligual_Entity_Alignment.pdf",
-    "bibtext": "@InProceedings{zou19align,\nauthor    = {Yang, Hsiu-Wei and Zou, Yanyan and Shi, Peng and Lu, Wei and Lin, Jimmy and Sun, Xu},\ntitle     = {Aligning Cross-lingual Entities with Multi-Aspect Information},\nbooktitle = {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing},\nyear      = {2019}\n}",
-    "code": "https://github.com/h324yang/HMAN"
+      "venue": "EMNLP",
+      "authors": "Hsiu-Wei Yang∗, Yanyan Zou∗, Peng Shi∗, Wei Lu, Jimmy Lin, and Xu Sun",
+      "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2019/Cross_ligual_Entity_Alignment.pdf",
+      "bibtext": "@InProceedings{zou19align,\nauthor    = {Yang, Hsiu-Wei and Zou, Yanyan and Shi, Peng and Lu, Wei and Lin, Jimmy and Sun, Xu},\ntitle     = {Aligning Cross-lingual Entities with Multi-Aspect Information},\nbooktitle = {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing},\nyear      = {2019}\n}",
+      "code": "https://github.com/h324yang/HMAN"
     },
-     "Learning Explicit and Implicit Structures for Targeted Sentiment Analysis": {
-     "venue": "EMNLP",
+    "Learning Explicit and Implicit Structures for Targeted Sentiment Analysis": {
+      "venue": "EMNLP",
       "authors": "Hao Li and Wei Lu",
       "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2019/emnlp2019-targetsentiment.pdf",
       "bibtext": "@InProceedings{li2019sentiment,\nauthor    = {Li, Hao  and  Lu, Wei},\ntitle     = {Learning Explicit and Implicit Structures for Targeted Sentiment Analysis},\nbooktitle = {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing},\nyear      = {2019}\n}",
