@@ -24,7 +24,7 @@
     "github": ""
   },
   "Nan Guoshun": {
-    "role": "staff",
+    "role": "alumni",
     "title": "Postdoc",
     "researchInterest": [
       "Named Entity Recognition",
@@ -36,7 +36,7 @@
     "github": "https://github.com/nanguoshun"
   },
   "Qiao Rui": {
-    "role": "staff",
+    "role": "alumni",
     "title": "Research Asst.",
     "researchInterest": [
       "Named Entity Recognition",
@@ -119,7 +119,7 @@
     "github": ""
   },
  "Wang Huiming": {
-   "role": "staff",
+   "role": "Phd Student",
    "title": "Research Intern",
    "researchInterest": [
      "Named Entity Recognition",
@@ -163,7 +163,7 @@
    "github": ""
  },
  "Zhou Yuxiang": {
-   "role": "staff",
+   "role": "alumni",
    "title": "Visiting Student",
    "researchInterest": [
      "Text Classification",
@@ -196,7 +196,8 @@
     "github": "https://github.com/LiyingCheng95"
   },
   "Guo Zhijiang": {
-    "title": "PhD Student",
+    "role": "alumni",
+    "title": "PhD Graduate",
     "researchInterest": [
       "Syntatic Parsing",
       "Semantic Parsing"
@@ -215,17 +216,6 @@
     "googlescholar": "",
     "linkedin": "",
     "github": "https://github.com/allanj"
-  },
-  "Joel Ong": {
-    "title": "PhD Student",
-    "researchInterest": [
-      "Theory of Variational Inference",
-      "Machine Learning in Finance",
-      "Unsupervised & Generative Modeling"
-    ],
-    "googlescholar": "",
-    "linkedin": "",
-    "github": "https://github.com/joelowj"
   },
   "Li Hao": {
     "role": "alumni",
