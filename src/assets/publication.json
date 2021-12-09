@@ -54,8 +54,8 @@
     "Reasoning with Latent Structure Refinement for Document-Level Relation Extraction": {
       "venue": "ACL",
       "authors": "Guoshun Nan, Zhijiang Guo, Ivan Sekulić and Wei Lu",
-      "paper": "",
-      "bibtext": "",
+      "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2020/nan_reason.pdf",
+      "bibtext": "@inproceedings{nan2020,\n    title = \"Reasoning with Latent Structure Refinement for Document-Level Relation Extraction\",\n    author = \"Guoshun Nan, Zhijiang Guo, Ivan Sekulić and Wei Lu\",\n    booktitle = \"Proceedings of ACL\",\n    url = {https://arxiv.org/abs/2005.06312},\n    year = \"2020\"\n}",
       "code": "https://github.com/nanguoshun/LSR"
     },
     "Position-Aware Tagging for Aspect Sentiment Triplet Extraction": {
@@ -75,51 +75,44 @@
     "Two are Better Than One: Joint Entity and Relation Extraction with Table-Sequence Encoders": {
       "venue": "EMNLP",
       "authors": "Jue Wang and Wei Lu",
-      "paper": "",
-      "bibtext": "",
-      "code": ""
+      "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2020/wang_two.pdf",
+      "bibtext": "@inproceedings{wang2020two,\n  title={Two Are Better than One: Joint Entity and Relation Extraction with Table-Sequence Encoders},\n  author={Wang, Jue and Lu, Wei},\n  booktitle={Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)},\n  pages={1706--1721},\n  year={2020}\n}",
+      "code": "https://github.com/LorrinWWW/two-are-better-than-one"
     },
     "Pre-training for Abstractive Document Summarization by Reinstating Source Text": {
       "venue": "EMNLP",
       "authors": "Yanyan Zou, Xingxing Zhang, Wei Lu, Furu Wei and Ming Zhou",
-      "paper": "",
-      "bibtext": "",
-      "code": ""
+      "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2020/zou_pre.pdf",
+      "bibtext": "@inproceedings{zou-etal-2020-pre,\n    title = \"Pre-training for Abstractive Document Summarization by Reinstating Source Text\",\n    author = \"Zou, Yanyan  and\n      Zhang, Xingxing  and\n      Lu, Wei  and\n      Wei, Furu  and\n      Zhou, Ming\",\n    booktitle = \"Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)\",\n    month = nov,\n    year = \"2020\",\n    address = \"Online\",\n    publisher = \"Association for Computational Linguistics\",\n    url = \"https://www.aclweb.org/anthology/2020.emnlp-main.297\",\n    pages = \"3646--3660\",\n}",
+      "code": "https://github.com/zoezou2015/abs_pretraining"
     },
     "Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation": {
       "venue": "EMNLP",
       "authors": "Yan Zhang, Zhijiang Guo, Zhiyang Teng, Wei Lu, Shay B. Cohen, Zuozhu Liu, Lidong Bing",
-      "paper": "",
-      "bibtext": "",
-      "code": ""
+      "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2020/zhang_light.pdf",
+      "bibtext": "@inproceedings{zhang-etal-2020-lightweight,\n    title = \"Lightweight, Dynamic Graph Convolutional Networks for {AMR}-to-Text Generation\",\n    author = \"Zhang, Yan  and\n      Guo, Zhijiang  and\n      Teng, Zhiyang  and\n      Lu, Wei  and\n      Cohen, Shay B.  and\n      Liu, Zuozhu  and\n      Bing, Lidong\",\n    booktitle = \"Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)\",\n    month = nov,\n    year = \"2020\",\n    address = \"Online\",\n    publisher = \"Association for Computational Linguistics\",\n    url = \"https://aclanthology.org/2020.emnlp-main.169\",\n    doi = \"10.18653/v1/2020.emnlp-main.169\",\n    pages = \"2162--2172\",\n }\n",
+      "code": "https://github.com/yanzhangnlp/LDGCNs"
     },
-    "Knowledge Graph Empowered Entity Description Generation": {
+    "ENT-DESC: Entity Description Generation by Exploring Knowledge Graph": {
       "venue": "EMNLP",
       "authors": "Liying Cheng, Dekun Wu, Lidong Bing, Yan Zhang, Zhanming Jie, Wei Lu and Luo Si",
-      "paper": "",
-      "bibtext": "",
-      "code": ""
-    },
-    "Re-examining the Role of Schema Linking in Text-to-SQL": {
-      "venue": "EMNLP",
-      "authors": "Wenqiang Lei, Weixin Wang, Zhixin Ma, Tian Gan, Wei Lu, Min-Yen Kan and Tat-Seng Chua",
-      "paper": "",
-      "bibtext": "",
-      "code": ""
+      "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2020/cheng_ent.pdf",
+      "bibtext": "@inproceedings{cheng2020ent,\n  title={ENT-DESC: Entity Description Generation by Exploring Knowledge Graph},\n  author={Cheng, Liying and Wu, Dekun and Bing, Lidong and Zhang, Yan and Jie, Zhanming and Lu, Wei and Si, Luo},\n  booktitle={Proceedings of EMNLP},\n  year={2020}\n}",
+      "code": "https://github.com/LiyingCheng95/EntityDescriptionGeneration"
     },
     "Attention-based Context Aware Reasoning for Situation Recognition": {
       "venue": "CVPR",
       "authors": "Thilini Cooray, Ngai-Man Cheung and Wei Lu",
-      "paper": "",
-      "bibtext": "",
-      "code": ""
+      "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2020/thilinni.pdf",
+      "bibtext": "@InProceedings{Cooray_2020_CVPR,\nauthor = {Cooray, Thilini and Cheung, Ngai-Man and Lu, Wei},\ntitle = {Attention-Based Context Aware Reasoning for Situation Recognition},\nbooktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},\nmonth = {June},\nyear = {2020}\n}",
+      "code": "https://github.com/thilinicooray/context-aware-reasoning-for-sr"
     },
     "Learning Latent Forests for Medical Relation Extraction": {
       "venue": "IJCAI",
       "authors": "Zhijiang Guo, Guoshun Nan, Wei Lu and Shay B. Cohen",
-      "paper": "",
-      "bibtext": "",
-      "code": ""
+      "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2020/guo_learning.pdf",
+      "bibtext": "@inproceedings{Guo2020LearningLF,\n  title={Learning Latent Forests for Medical Relation Extraction},\n  author={Zhijiang Guo and Guoshun Nan and Wei Lu and Shay B. Cohen},\n  booktitle={Proc. of IJCAI},\n  year={2020}\n}",
+      "code": "https://github.com/Cartus/Latent-Forests"
     },
     "Knowing What, How and Why: a Near Complete Solution for Aspect-based Sentiment Analysis": {
       "venue": "AAAI",
@@ -190,7 +183,7 @@
       "venue": "ACL",
       "authors": "Zhijiang Guo*, Yan Zhang* and Wei Lu",
       "paper": "http://www.statnlp.org/wp-content/uploads/2019/06/AGGCN.pdf",
-      "bibtext": "@inproceedings{guo-etal-2019-attention,\r\n    title = \"Attention Guided Graph Convolutional Networks for Relation Extraction\",\r\n    author = \"Guo, Zhijiang  and\r\n      Zhang, Yan  and\r\n      Lu, Wei\",\r\n    booktitle = \"Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics\",\r\n    month = jul,\r\n    year = \"2019\",\r\n    address = \"Florence, Italy\",\r\n    publisher = \"Association for Computational Linguistics\",\r\n    doi = \"10.18653\/v1\/P19-1024\",\r\n    pages = \"241--251\",\r\n    abstract = \"Dependency trees convey rich structural information that is proven useful for extracting relations among entities in text. However, how to effectively make use of relevant information while ignoring irrelevant information from the dependency trees remains a challenging research question. Existing approaches employing rule based hard-pruning strategies for selecting relevant partial dependency structures may not always yield optimal results. In this work, we propose Attention Guided Graph Convolutional Networks (AGGCNs), a novel model which directly takes full dependency trees as inputs. Our model can be understood as a soft-pruning approach that automatically learns how to selectively attend to the relevant sub-structures useful for the relation extraction task. Extensive results on various tasks including cross-sentence n-ary relation extraction and large-scale sentence-level relation extraction show that our model is able to better leverage the structural information of the full dependency trees, giving significantly better results than previous approaches.\",\r\n}",
+      "bibtext": "@inproceedings{guo-etal-2019-attention,\r\n    title = \"Attention Guided Graph Convolutional Networks for Relation Extraction\",\r\n    author = \"Guo, Zhijiang  and\r\n      Zhang, Yan  and\r\n      Lu, Wei\",\r\n    booktitle = \"Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics\",\r\n    month = jul,\r\n    year = \"2019\",\r\n    address = \"Florence, Italy\",\r\n    publisher = \"Association for Computational Linguistics\",\r\n    doi = \"10.18653\/v1\/P19-1024\",\r\n    pages = \"241--251\",\r\n}",
       "code": "https://github.com/Cartus/AGGCN_TACRED"
     },
     "Densely Connected Graph Convolutional Networks for Graph-to-Sequence Learning": {

@@ -26,11 +26,11 @@
     "role": "staff",
     "title": "Research Assistant",
     "researchInterest": [
-      "Natural Language Processing"
+      "sentence representation"
     ],
     "googlescholar": "",
     "linkedin": "",
-    "github": ""
+    "github": "https://github.com/WangTianduo"
   },
   "Zhang Shengqiang": {
     "role": "staff",
@@ -38,9 +38,9 @@
     "researchInterest": [
       "Natural Language Processing"
     ],
-    "googlescholar": "",
+    "googlescholar": "https://scholar.google.com/citations?user=6zCNnwsAAAAJ&hl=zh-CN",
     "linkedin": "",
-    "github": ""
+    "github": " https://shengqiang-zhang.github.io"
   },
   "Cheng Liying": {
     "title": "PhD Student",
