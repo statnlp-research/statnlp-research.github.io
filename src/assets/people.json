@@ -22,11 +22,21 @@
    "linkedin": "https://www.linkedin.com/in/jiaxi-li-725759195/",
    "github": ""
  },
+  "Leng Sicong": {
+    "role": "staff",
+    "title": "Research Assistant",
+    "researchInterest": [
+      "Parsing"
+    ],
+    "googlescholar": "",
+    "linkedin": "https://www.linkedin.com/in/sicong-leng-203516179/",
+    "github": ""
+  },
   "Wang Tianduo": {
     "role": "staff",
     "title": "Research Assistant",
     "researchInterest": [
-      "sentence representation"
+      "Sentence Representation"
     ],
     "googlescholar": "",
     "linkedin": "",
@@ -40,7 +50,18 @@
     ],
     "googlescholar": "https://scholar.google.com/citations?user=6zCNnwsAAAAJ&hl=zh-CN",
     "linkedin": "",
-    "github": " https://shengqiang-zhang.github.io"
+    "github": "https://shengqiang-zhang.github.io"
+  },
+  "Vanessa Tan": {
+    "role": "staff",
+    "title": "Research Assistant",
+    "researchInterest": [
+      "Natural Language Understanding",
+      "Text Generation"
+    ],
+    "googlescholar": "",
+    "linkedin": "",
+    "github": "https://github.com/vtyh"
   },
   "Cheng Liying": {
     "title": "PhD Student",
