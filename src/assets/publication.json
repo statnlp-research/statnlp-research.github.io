@@ -39,7 +39,7 @@
       "venue": "NAACL",
       "authors": "Lu Xu, Zhanming Jie, Wei Lu, Lidong Bing",
       "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2021/better_feature_ner.pdf",
-      "bibtext":"@inproceedings{Xu2021BetterFI,\n  title={Better Feature Integration for Named Entity Recognition},\n  author={Lu Xu and Lu Xu and Zhanming Jie and Wei Lu and Lidong Bing},\n  booktitle={Proceedings of NAACL},\n  year={2021},\n  url={https://aclanthology.org/2021.naacl-main.271.pdf}\n}",
+      "bibtext":"@inproceedings{Xu2021BetterFI,\n  title={Better Feature Integration for Named Entity Recognition},\n  author={Lu Xu and Zhanming Jie and Wei Lu and Lidong Bing},\n  booktitle={Proceedings of NAACL},\n  year={2021},\n  url={https://aclanthology.org/2021.naacl-main.271.pdf}\n}",
       "code": "https://github.com/xuuuluuu/SynLSTM-for-NER"
     }
   },
@@ -62,14 +62,14 @@
       "venue": "EMNLP",
       "authors": "Lu Xu, Hao Li, Wei Lu and Lidong Bing",
       "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2020/position_aware_aste.pdf",
-      "bibtext": "@inproceedings{xu2020,\n    title = \"Aspect Sentiment Classification with Aspect-Specific Opinion Spans\",\n    author = \"Xu, Lu and Bing, Lidong and Lu, Wei and Huang, Fei\",\n    booktitle = \"Proceedings of EMNLP\",\n    url = {https://www.aclweb.org/anthology/2020.emnlp-main.288.pdf},\n    year = \"2020\"\n}",
+      "bibtext": "@inproceedings{Xu2020PositionAwareTF,\n    title={Position-Aware Tagging for Aspect Sentiment Triplet Extraction},\n    author={Lu Xu and Hao Li and W. Lu and Lidong Bing},\n    booktitle = \"Proceedings of EMNLP\",\n    url = {https://www.aclweb.org/anthology/2020.emnlp-main.183.pdf},\n    year = \"2020\"\n}",
       "code": "https://github.com/xuuuluuu/Position-Aware-Tagging-for-ASTE"
     },
     "Aspect Based Sentiment Analysis with Aspect-Specific Opinion Spans": {
       "venue": "EMNLP",
       "authors": "Lu Xu, Lidong Bing, Wei Lu and Fei Huang",
       "paper": "https://github.com/statnlp-research/statnlp-papers/blob/master/2020/mcrf_absa.pdf",
-      "bibtext": "@inproceedings{Xu2020PositionAwareTF,\n    title={Position-Aware Tagging for Aspect Sentiment Triplet Extraction},\n    author={Lu Xu and Hao Li and W. Lu and Lidong Bing},\n    booktitle = \"Proceedings of EMNLP\",\n    url = {https://www.aclweb.org/anthology/2020.emnlp-main.183.pdf},\n    year = \"2020\"\n}",
+      "bibtext": "@inproceedings{xu2020,\n    title = \"Aspect Sentiment Classification with Aspect-Specific Opinion Spans\",\n    author = \"Xu, Lu and Bing, Lidong and Lu, Wei and Huang, Fei\",\n    booktitle = \"Proceedings of EMNLP\",\n    url = {https://www.aclweb.org/anthology/2020.emnlp-main.288.pdf},\n    year = \"2020\"\n}",
       "code": "https://github.com/xuuuluuu/Aspect-Sentiment-Classification"
     },
     "Two are Better Than One: Joint Entity and Relation Extraction with Table-Sequence Encoders": {
