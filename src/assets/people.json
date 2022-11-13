@@ -11,20 +11,17 @@
     "linkedin": "https://www.linkedin.com/in/wei-lu-59aa9615/",
     "github": ""
   },
-
  "Li Jiaxi": {
-   "role": "staff",
-   "title": "Research Assistant",
+   "title": "PhD Student",
    "researchInterest": [
-     "Natural Language Processing"
+     "Unsupervised Parsing"
    ],
    "googlescholar": "",
    "linkedin": "https://www.linkedin.com/in/jiaxi-li-725759195/",
    "github": ""
  },
   "Leng Sicong": {
-    "role": "staff",
-    "title": "Research Assistant",
+    "title": "PhD Student",
     "researchInterest": [
       "Parsing"
     ],
@@ -33,24 +30,13 @@
     "github": ""
   },
   "Wang Tianduo": {
-    "role": "staff",
-    "title": "Research Assistant",
+    "title": "PhD Student",
     "researchInterest": [
       "Sentence Representation"
     ],
     "googlescholar": "",
     "linkedin": "",
     "github": "https://github.com/WangTianduo"
-  },
-  "Zhang Shengqiang": {
-    "role": "staff",
-    "title": "Research Assistant",
-    "researchInterest": [
-      "Natural Language Processing"
-    ],
-    "googlescholar": "https://scholar.google.com/citations?user=6zCNnwsAAAAJ&hl=zh-CN",
-    "linkedin": "",
-    "github": "https://shengqiang-zhang.github.io"
   },
   "Vanessa Tan": {
     "role": "staff",
@@ -62,6 +48,28 @@
     "googlescholar": "",
     "linkedin": "",
     "github": "https://github.com/vtyh"
+  },
+  "Jin Ziqi": {
+    "role": "staff",
+    "title": "Research Assistant",
+    "researchInterest": [
+      "Large Language Model",
+      "Text Generation"
+    ],
+    "googlescholar": "",
+    "linkedin": "",
+    "github": "https://github.com/xalp"
+  },
+  "Zhang Peiyuan": {
+    "role": "staff",
+    "title": "Research Assistant",
+    "researchInterest": [
+      "Relation & Information Extraction",
+      "Diffusion Model"
+    ],
+    "googlescholar": "",
+    "linkedin": "https://www.linkedin.com/in/lance-peiyuan-zhang-5b2886194/",
+    "github": ""
   },
   "Cheng Liying": {
     "title": "PhD Student",
@@ -95,7 +103,6 @@
     "linkedin": "",
     "github": "https://github.com/xuuuluuu"
   },
-
   "Li Haoran": {
     "title": "PhD Student",
     "researchInterest": [
@@ -107,16 +114,6 @@
     "linkedin": "https://www.linkedin.com/in/%E6%B5%A9%E7%84%B6-%E6%9D%8E-49117a191/",
     "github": "https://github.com/haorannlp"
   },
-  "Zhang Qi": {
-    "title": "PhD Student",
-    "researchInterest": [
-      "Natural Language Processing",
-      "Semantic Parsing"
-    ],
-    "googlescholar": "",
-    "linkedin": "",
-    "github": ""
-  },
   "Zeng Guangtao": {
     "title": "PhD Student",
     "researchInterest": [
@@ -126,8 +123,17 @@
     "linkedin": "",
     "github": ""
   },
-  "Wang Huiming": {
+  "Guo Yuchen": {
     "title": "PhD Student",
+    "researchInterest": [
+      "Named Entity Recognition"
+    ],
+    "googlescholar": "",
+    "linkedin": "",
+    "github": ""
+  },
+  "Ma Shukai": {
+    "title": "Intern Student",
     "researchInterest": [
       "Named Entity Recognition",
       "Semantic Parsing",
@@ -137,25 +143,15 @@
     "linkedin": "",
     "github": "https://github.com/Circle-Ming"
   },
-  "Thilini": {
-    "title": "PhD Student",
+  "Yarommir": {
+    "title": "UROP Student",
     "researchInterest": [
-      "Visual Language Tasks",
-      "Visual Question & Answering"
+      "Named Entity Recognition",
+      "Semantic Parsing",
+      "Machine Learning"
     ],
     "googlescholar": "",
     "linkedin": "",
-    "github": "https://github.com/thilinicooray"
-  },
-  "Perry Lam": {
-    "title": "PhD Student",
-    "researchInterest": [
-      "Speech Generation",
-      "Conversational Information Extraction",
-      "Computational Psycholinguistics"
-    ],
-    "googlescholar": "",
-    "linkedin": "https://www.linkedin.com/in/perry-lam-7b5685109/?originalSubdomain=sg",
-    "github": ""
+    "github": "https://github.com/Circle-Ming"
   }
 }
