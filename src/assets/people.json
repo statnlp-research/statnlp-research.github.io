@@ -126,13 +126,15 @@
   "Guo Yuchen": {
     "title": "PhD Student",
     "researchInterest": [
-      "Named Entity Recognition"
+      "Named Entity Recognition",
+      "Relation extraction"
     ],
     "googlescholar": "",
-    "linkedin": "",
-    "github": ""
+    "linkedin": "https://www.linkedin.com/in/guo-yuchen/",
+    "github": "https://github.com/MasonGYC"
   },
   "Ma Shukai": {
+    "role": "staff",
     "title": "Intern Student",
     "researchInterest": [
       "Named Entity Recognition",
@@ -140,10 +142,11 @@
       "Machine Learning"
     ],
     "googlescholar": "",
-    "linkedin": "",
-    "github": "https://github.com/Circle-Ming"
+    "linkedin": "https://www.linkedin.com/in/shukai-ma-08a27b140/",
+    "github": ""
   },
-  "Yarommir": {
+  "Yaromir": {
+    "role": "staff",
     "title": "UROP Student",
     "researchInterest": [
       "Named Entity Recognition",
@@ -152,6 +155,6 @@
     ],
     "googlescholar": "",
     "linkedin": "",
-    "github": "https://github.com/Circle-Ming"
+    "github": ""
   }
 }
