@@ -1,4 +1,55 @@
 {
+  "2022": {
+    "Differentiable Data Augmentation for Contrastive Sentence Representation Learning": {
+      "venue": "EMNLP",
+      "authors": "Tianduo Wang, Wei Lu",
+      "paper": "https://arxiv.org/abs/2210.16536",
+      "bibtext": "@misc{https://doi.org/10.48550/arxiv.2210.16536,  doi = {10.48550/ARXIV.2210.16536},    url = {https://arxiv.org/abs/2210.16536},    author = {Wang, Tianduo and Lu, Wei},    keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences},    title = {Differentiable Data Augmentation for Contrastive Sentence Representation Learning},    publisher = {arXiv},    year = {2022},    copyright = {arXiv.org perpetual, non-exclusive license}}",
+      "code": "https://github.com/TianduoWang/DiffAug"
+    },
+    "Better Few-Shot Relation Extraction with Label Prompt Dropout": {
+      "venue": "EMNLP",
+      "authors": "Peiyuan Zhang, Wei Lu",
+      "paper": "https://arxiv.org/abs/2210.13733",
+      "bibtext": "@misc{https://doi.org/10.48550/arxiv.2210.13733,  doi = {10.48550/ARXIV.2210.13733},    url = {https://arxiv.org/abs/2210.13733},    author = {Zhang, Peiyuan and Lu, Wei},    keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences},    title = {Better Few-Shot Relation Extraction with Label Prompt Dropout},    publisher = {arXiv},    year = {2022},    copyright = {arXiv.org perpetual, non-exclusive license}}",
+      "code": "https://github.com/jzhang38/LPD"
+    },
+    "Unsupervised Non-transferable Text Classification": {
+      "venue": "EMNLP",
+      "authors": "Guangtao Zeng and Wei Lu",
+      "paper": "https://arxiv.org/abs/2210.12651",
+      "bibtext": "@misc{https://doi.org/10.48550/arxiv.2210.12651,  doi = {10.48550/ARXIV.2210.12651},    url = {https://arxiv.org/abs/2210.12651},    author = {Zeng, Guangtao and Lu, Wei},    keywords = {Computation and Language (cs.CL), Artificial Intelligence (cs.AI), FOS: Computer and information sciences, FOS: Computer and information sciences},    title = {Unsupervised Non-transferable Text Classification},    publisher = {arXiv},    year = {2022},    copyright = {arXiv.org perpetual, non-exclusive license}}",
+      "code": "https://github.com/ChaosCodes/UNTL"
+    },
+    "Generative Prompt Tuning for Relation Classification": {
+      "venue": "Findings ACL, EMNLP 2022",
+      "authors": "Jiale Han, Shuai Zhao, Bo Cheng, Shengkun Ma, Wei Lu",
+      "paper": "https://arxiv.org/abs/2210.12435",
+      "bibtext": "@misc{https://doi.org/10.48550/arxiv.2210.12435,  doi = {10.48550/ARXIV.2210.12435},    url = {https://arxiv.org/abs/2210.12435},    author = {Han, Jiale and Zhao, Shuai and Cheng, Bo and Ma, Shengkun and Lu, Wei},    keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences},    title = {Generative Prompt Tuning for Relation Classification},    publisher = {arXiv},    year = {2022},    copyright = {arXiv.org perpetual, non-exclusive license}}",
+      "code": "https://github.com/hanjiale/GenPT"
+    },
+    "Implicit N-grams Induced by Recurrence": {
+      "venue": "NAACL",
+      "authors": "Xiaobing Sun, Wei Lu",
+      "paper": "https://arxiv.org/abs/2205.02724",
+      "bibtext": "@misc{https://doi.org/10.48550/arxiv.2205.02724,  doi = {10.48550/ARXIV.2205.02724},    url = {https://arxiv.org/abs/2205.02724},    author = {Sun, Xiaobing and Lu, Wei},    keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences},    title = {Implicit N-grams Induced by Recurrence},    publisher = {arXiv},    year = {2022},    copyright = {arXiv.org perpetual, non-exclusive license}}",
+      "code": "https://github.com/richardsun-voyager/inibr"
+    },
+    "Learning to Reason Deductively: Math Word Problem Solving as Complex Relation Extraction": {
+      "venue": "ACL",
+      "authors": "Zhanming Jie, Jierui Li, Wei Lu",
+      "paper": "https://arxiv.org/abs/2203.10316",
+      "bibtext":"@misc{https://doi.org/10.48550/arxiv.2203.10316,  doi = {10.48550/ARXIV.2203.10316},    url = {https://arxiv.org/abs/2203.10316},    author = {Jie, Zhanming and Li, Jierui and Lu, Wei},    keywords = {Computation and Language (cs.CL), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},    title = {Learning to Reason Deductively: Math Word Problem Solving as Complex Relation Extraction},    publisher = {arXiv},    year = {2022},    copyright = {Creative Commons Attribution 4.0 International}}",
+      "code": "https://github.com/allanj/Deductive-MWP"
+    },
+    "DAMO-NLP at SemEval-2022 Task 11: A Knowledge-based System for Multilingual Named Entity Recognition": {
+      "venue": "SemEval",
+      "authors": "Xinyu Wang, Yongliang Shen, Jiong Cai, Tao Wang, Xiaobin Wang, Pengjun Xie, Fei Huang, Weiming Lu, Yueting Zhuang, Kewei Tu, Wei Lu, Yong Jiang",
+      "paper": "https://arxiv.org/abs/2203.00545",
+      "bibtext":"@misc{https://doi.org/10.48550/arxiv.2203.00545, doi = {10.48550/ARXIV.2203.00545},url = {https://arxiv.org/abs/2203.00545},author = {Wang, Xinyu and Shen, Yongliang and Cai, Jiong and Wang, Tao and Wang, Xiaobin and Xie, Pengjun and Huang, Fei and Lu, Weiming and Zhuang, Yueting and Tu, Kewei and Lu, Wei and Jiang, Yong}, keywords = {Computation and Language (cs.CL), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},title = {DAMO-NLP at SemEval-2022 Task 11: A Knowledge-based System for Multilingual Named Entity Recognition},publisher = {arXiv},year = {2022},copyright = {Creative Commons Attribution Non Commercial Share Alike 4.0 International}}",
+      "code": "https://github.com/Alibaba-NLP/KB-NER"
+    }
+  },
   "2021": {
     "To be Closer: Learning to Link up Aspects with Opinions": {
       "venue": "EMNLP",
