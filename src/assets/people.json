@@ -23,7 +23,8 @@
   "Leng Sicong": {
     "title": "PhD Student",
     "researchInterest": [
-      "Parsing"
+      "Multi-modality Learning",
+      "Diffusion Model"
     ],
     "googlescholar": "",
     "linkedin": "https://www.linkedin.com/in/sicong-leng-203516179/",
@@ -78,7 +79,7 @@
       "Argument Mining",
       "Natural Language Processing"
     ],
-    "googlescholar": "",
+    "googlescholar": "https://scholar.google.com.sg/citations?user=xkZCRy0kBHEC&hl=en",
     "linkedin": "https://sg.linkedin.com/in/liying-cheng-1210608b",
     "github": "https://github.com/LiyingCheng95"
   },
@@ -135,11 +136,10 @@
   },
   "Ma Shukai": {
     "role": "staff",
-    "title": "Intern Student",
+    "title": "Research Assistant",
     "researchInterest": [
-      "Named Entity Recognition",
-      "Semantic Parsing",
-      "Machine Learning"
+      "Cognitiion-Inspired NLP",
+      "Cognitive Modeling"
     ],
     "googlescholar": "",
     "linkedin": "https://www.linkedin.com/in/shukai-ma-08a27b140/",
