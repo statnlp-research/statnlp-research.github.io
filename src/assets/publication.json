@@ -1,4 +1,48 @@
 {
+  "2023": {
+    "Learning Multi-Step Reasoning by Solving Arithmetic Tasks": {
+      "venue": "ACL",
+      "authors": "Tianduo Wang, Wei Lu",
+      "paper": "https://arxiv.org/abs/2306.01707",
+      "bibtext": "@misc{wang2023learning, title={Learning Multi-Step Reasoning by Solving Arithmetic Tasks}, author={Tianduo Wang and Wei Lu}, year={2023}, eprint={2306.01707}, archivePrefix={arXiv}, primaryClass={cs.CL} }",
+      "code": "https://github.com/TianduoWang/MsAT"
+    },
+    "Contextual Distortion Reveals Constituency: Masked Language Models are Implicit Parsers": {
+      "venue": "ACL",
+      "authors": "Jiaxi Li, Wei Lu",
+      "paper": "https://arxiv.org/abs/2306.00645",
+      "bibtext": "@misc{li2023contextual, title={Contextual Distortion Reveals Constituency: Masked Language Models are Implicit Parsers}, author={Jiaxi Li and Wei Lu}, year={2023}, eprint={2306.00645}, archivePrefix={arXiv}, primaryClass={cs.CL} }",
+      "code": "https://github.com/jxjessieli/contextual-distortion-parser"
+    },
+    "Leveraging Training Data in Few-Shot Prompting for Numerical Reasoning": {
+      "venue": "Findings of ACL",
+      "authors": "Zhanming Jie, Wei Lu",
+      "paper": "https://arxiv.org/abs/2305.18170",
+      "bibtext": "@misc{jie2023leveraging, title={Leveraging Training Data in Few-Shot Prompting for Numerical Reasoning}, author={Zhanming Jie and Wei Lu}, year={2023}, eprint={2305.18170}, archivePrefix={arXiv}, primaryClass={cs.CL} }",
+      "code": "https://github.com/allanj/dynamic-pal"
+    },
+    "One Network, Many Masks: Towards More Parameter-Efficient Transfer Learning": {
+      "venue": "ACL",
+      "authors": "Guangtao Zeng, Peiyuan Zhang, Wei Lu",
+      "paper": "https://arxiv.org/abs/2305.17682",
+      "bibtext": "@misc{zeng2023network, title={One Network, Many Masks: Towards More Parameter-Efficient Transfer Learning}, author={Guangtao Zeng and Peiyuan Zhang and Wei Lu}, year={2023}, eprint={2305.17682}, archivePrefix={arXiv}, primaryClass={cs.CL} }",
+      "code": "https://github.com/ChaosCodes/ProPETL"
+    },
+    "Tab-CoT: Zero-shot Tabular Chain of Thought": {
+      "venue": "Findings of ACL",
+      "authors": "Ziqi Jin, Wei Lu",
+      "paper": "https://arxiv.org/abs/2305.17812",
+      "bibtext": "@misc{jin2023tabcot, title={Tab-CoT: Zero-shot Tabular Chain of Thought}, author={Ziqi Jin and Wei Lu}, year={2023}, eprint={2305.17812}, archivePrefix={arXiv}, primaryClass={cs.CL} }",
+      "code": "https://github.com/Xalp/Tab-CoT"
+    },
+    "Better Sampling of Negatives for Distantly Supervised Named Entity Recognition": {
+      "venue": "Findings of ACL",
+      "authors": "Lu Xu, Lidong Bing, Wei Lu",
+      "paper": "https://arxiv.org/abs/2305.13142",
+      "bibtext": "@misc{xu2023better, title={Better Sampling of Negatives for Distantly Supervised Named Entity Recognition}, author={Lu Xu and Lidong Bing and Wei Lu}, year={2023}, eprint={2305.13142}, archivePrefix={arXiv}, primaryClass={cs.CL} }",
+      "code": "https://github.com/xuuuluuu/ds_ner"
+    }
+  },
   "2022": {
     "Differentiable Data Augmentation for Contrastive Sentence Representation Learning": {
       "venue": "EMNLP",
