@@ -20,16 +20,6 @@
    "linkedin": "https://www.linkedin.com/in/jiaxi-li-725759195/",
    "github": ""
  },
-  "Leng Sicong": {
-    "title": "PhD Student",
-    "researchInterest": [
-      "Multi-modality Learning",
-      "Diffusion Model"
-    ],
-    "googlescholar": "",
-    "linkedin": "https://www.linkedin.com/in/sicong-leng-203516179/",
-    "github": ""
-  },
   "Wang Tianduo": {
     "title": "PhD Student",
     "researchInterest": [
@@ -39,16 +29,33 @@
     "linkedin": "",
     "github": "https://github.com/WangTianduo"
   },
-  "Vanessa Tan": {
-    "role": "staff",
-    "title": "Research Assistant",
+  "Zeng Guangtao": {
+    "title": "PhD Student",
     "researchInterest": [
-      "Natural Language Understanding",
-      "Text Generation"
+      "Natural Language Processing"
     ],
     "googlescholar": "",
     "linkedin": "",
-    "github": "https://github.com/vtyh"
+    "github": ""
+  },
+  "Xiao Yao": {
+    "title": "PhD Student",
+    "researchInterest": [
+      "Natural Language Processing"
+    ],
+    "googlescholar": "",
+    "linkedin": "",
+    "github": ""
+  },
+  "Guo Yuchen": {
+    "title": "PhD Student",
+    "researchInterest": [
+      "Named Entity Recognition",
+      "Relation extraction"
+    ],
+    "googlescholar": "",
+    "linkedin": "https://www.linkedin.com/in/guo-yuchen/",
+    "github": "https://github.com/MasonGYC"
   },
   "Jin Ziqi": {
     "role": "staff",
@@ -72,8 +79,31 @@
     "linkedin": "https://www.linkedin.com/in/lance-peiyuan-zhang-5b2886194/",
     "github": ""
   },
+  "Leng Sicong": {
+    "role": "alumni",
+    "title": "Alumni",
+    "researchInterest": [
+      "Multi-modality Learning",
+      "Diffusion Model"
+    ],
+    "googlescholar": "",
+    "linkedin": "https://www.linkedin.com/in/sicong-leng-203516179/",
+    "github": ""
+  },
+  "Vanessa Tan": {
+    "role": "alumni",
+    "title": "Research Assistant",
+    "researchInterest": [
+      "Natural Language Understanding",
+      "Text Generation"
+    ],
+    "googlescholar": "",
+    "linkedin": "",
+    "github": "https://github.com/vtyh"
+  },
   "Cheng Liying": {
-    "title": "PhD Student",
+    "role": "alumni",
+    "title": "Graduated PhD",
     "researchInterest": [
       "Text Generation",
       "Argument Mining",
@@ -84,7 +114,8 @@
     "github": "https://github.com/LiyingCheng95"
   },
   "Sun Xiaobing": {
-    "title": "PhD Student",
+    "role": "alumni",
+    "title": "Graduated PhD",
     "researchInterest": [
       "Target Sentiment Analysis",
       "Deep Learning Interpretability"
@@ -114,25 +145,6 @@
     "googlescholar": "",
     "linkedin": "https://www.linkedin.com/in/%E6%B5%A9%E7%84%B6-%E6%9D%8E-49117a191/",
     "github": "https://github.com/haorannlp"
-  },
-  "Zeng Guangtao": {
-    "title": "PhD Student",
-    "researchInterest": [
-      "Natural Language Processing"
-    ],
-    "googlescholar": "",
-    "linkedin": "",
-    "github": ""
-  },
-  "Guo Yuchen": {
-    "title": "PhD Student",
-    "researchInterest": [
-      "Named Entity Recognition",
-      "Relation extraction"
-    ],
-    "googlescholar": "",
-    "linkedin": "https://www.linkedin.com/in/guo-yuchen/",
-    "github": "https://github.com/MasonGYC"
   },
   "Ma Shukai": {
     "role": "alumni",
