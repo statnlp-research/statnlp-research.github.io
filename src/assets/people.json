@@ -47,18 +47,8 @@
     "linkedin": "",
     "github": ""
   },
-  "Guo Yuchen": {
-    "title": "PhD Student",
-    "researchInterest": [
-      "Named Entity Recognition",
-      "Relation extraction"
-    ],
-    "googlescholar": "",
-    "linkedin": "https://www.linkedin.com/in/guo-yuchen/",
-    "github": "https://github.com/MasonGYC"
-  },
   "Jin Ziqi": {
-    "role": "staff",
+    "role": "alumni",
     "title": "Research Assistant",
     "researchInterest": [
       "Large Language Model",
@@ -69,7 +59,7 @@
     "github": "https://github.com/xalp"
   },
   "Zhang Peiyuan": {
-    "role": "staff",
+    "role": "alumni",
     "title": "Research Assistant",
     "researchInterest": [
       "Relation & Information Extraction",
@@ -81,7 +71,7 @@
   },
   "Leng Sicong": {
     "role": "alumni",
-    "title": "Alumni",
+    "title": "Research Assistant",
     "researchInterest": [
       "Multi-modality Learning",
       "Diffusion Model"
@@ -125,7 +115,8 @@
     "github": ""
   },
   "Xu Lu": {
-    "title": "PhD Student",
+    "role": "alumni",
+    "title": "Graduated PhD",
     "researchInterest": [
       "Machine Learning",
       "Senntiment Analysis",
@@ -136,7 +127,8 @@
     "github": "https://github.com/xuuuluuu"
   },
   "Li Haoran": {
-    "title": "PhD Student",
+    "role": "alumni",
+    "title": "Graduated PhD",
     "researchInterest": [
       "Machine Learning",
       "Graph Neural Networks",
@@ -145,28 +137,5 @@
     "googlescholar": "",
     "linkedin": "https://www.linkedin.com/in/%E6%B5%A9%E7%84%B6-%E6%9D%8E-49117a191/",
     "github": "https://github.com/haorannlp"
-  },
-  "Ma Shukai": {
-    "role": "alumni",
-    "title": "Research Assistant",
-    "researchInterest": [
-      "Cognitiion-Inspired NLP",
-      "Cognitive Modeling"
-    ],
-    "googlescholar": "",
-    "linkedin": "https://www.linkedin.com/in/shukai-ma-08a27b140/",
-    "github": ""
-  },
-  "Yaromir": {
-    "role": "staff",
-    "title": "UROP Student",
-    "researchInterest": [
-      "Named Entity Recognition",
-      "Semantic Parsing",
-      "Machine Learning"
-    ],
-    "googlescholar": "",
-    "linkedin": "",
-    "github": ""
   }
 }
