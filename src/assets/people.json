@@ -54,8 +54,8 @@
       "Large Language Model",
       "Text Generation"
     ],
-    "googlescholar": "",
-    "linkedin": "",
+    "googlescholar": "https://scholar.google.com/citations?user=on-f0-IAAAAJ",
+    "linkedin": "https://www.linkedin.com/in/xalp/",
     "github": "https://github.com/xalp"
   },
   "Zhang Peiyuan": {
@@ -137,5 +137,25 @@
     "googlescholar": "",
     "linkedin": "https://www.linkedin.com/in/%E6%B5%A9%E7%84%B6-%E6%9D%8E-49117a191/",
     "github": "https://github.com/haorannlp"
+  },
+  "Long Hoang": {
+    "title": "PhD Student",
+    "researchInterest": [
+      "Trustworthy AI", 
+      "Optimization",
+      "Natural Language Processing"
+    ],
+    "googlescholar": "https://scholar.google.com/citations?user=Ko2nvJ0AAAAJ&hl=en",
+    "linkedin": "https://www.linkedin.com/in/longhp1618/",
+    "github": "https://github.com/longhp1618"
+  },
+  "Huang Chen": {
+    "title": "PhD Student",
+    "researchInterest": [
+      "Large Language Model"
+    ],
+    "googlescholar": "",
+    "linkedin": "https://www.linkedin.com/in/chen-huang-7297a51ab/",
+    "github": ""  
   }
 }
