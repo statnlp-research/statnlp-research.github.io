@@ -157,5 +157,25 @@
     "googlescholar": "",
     "linkedin": "https://www.linkedin.com/in/chen-huang-7297a51ab/",
     "github": ""  
+  },
+  "Wang Yanbao": {
+    "role": "staff",
+    "title": "Research Assistant",
+    "researchInterest": [
+      "Natural Language Processing"
+    ],
+    "googlescholar": "",
+    "linkedin": "",
+    "github": "https://github.com/wangyanbao666"
+  },
+  "Lin Yutian": {
+    "role": "staff",
+    "title": "Research Assistant",
+    "researchInterest": [
+      "Natural Language Processing"
+    ],
+    "googlescholar": "",
+    "linkedin": "https://www.linkedin.com/in/yutian-lin-/",
+    "github": "https://github.com/Lynn-020809"
   }
 }
